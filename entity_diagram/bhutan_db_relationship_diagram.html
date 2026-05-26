@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bhutan Forestry DB — Relationship Diagram</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    background: #f9f8f4;
+    color: #3d3d3a;
+    min-height: 100vh;
+    padding: 32px 24px 48px;
+  }
+  header {
+    max-width: 1100px;
+    margin: 0 auto 32px;
+  }
+  header h1 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 6px;
+  }
+  header p {
+    font-size: 14px;
+    color: #73726c;
+    line-height: 1.6;
+  }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 1100px;
+    margin: 0 auto 28px;
+    padding: 16px 20px;
+    background: #fff;
+    border: 0.5px solid #d0cfc7;
+    border-radius: 10px;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+  }
+  .legend-dot {
+    width: 12px; height: 12px;
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+  #erd {
+    max-width: 1100px;
+    margin: 0 auto;
+    background: #fff;
+    border: 0.5px solid #d0cfc7;
+    border-radius: 12px;
+    padding: 24px;
+    overflow-x: auto;
+  }
+  #erd svg { display: block; margin: 0 auto; }
+  footer {
+    max-width: 1100px;
+    margin: 24px auto 0;
+    font-size: 12px;
+    color: #9c9a92;
+    text-align: center;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: #1a1a18; color: #c2c0b6; }
+    #erd { background: #222220; border-color: #3a3a38; }
+    .legend { background: #222220; border-color: #3a3a38; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Bhutan Forestry Training Database — Entity Relationship Diagram</h1>
+  <p>7 tables · 5 foreign key relationships · PostgreSQL + Apache Superset training environment</p>
+</header>
+
+<div class="legend">
+  <div class="legend-item">
+    <div class="legend-dot" style="background:#B5D4F4;border:1px solid #378ADD"></div>
+    <span>Fact tables — time-series data</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-dot" style="background:#C0DD97;border:1px solid #639922"></div>
+    <span>Lookup tables — reference data</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-dot" style="background:#F5C4B3;border:1px solid #D85A30"></div>
+    <span>Field survey table — no FK relationships</span>
+  </div>
+  <div class="legend-item">
+    <span style="font-size:16px;line-height:1">}o——||</span>
+    <span>Many-to-one (FK → PK)</span>
+  </div>
+</div>
+
+<div id="erd"></div>
+
+<footer>
+  Bhutan Department of Forests and Park Services · GHG Inventory Capacity Building Training · Synthetic training data
+</footer>
+
+<script type="module">
+import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+
+const dark = matchMedia('(prefers-color-scheme: dark)').matches;
+
+mermaid.initialize({
+  startOnLoad: false,
+  theme: 'base',
+  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif',
+  themeVariables: {
+    darkMode: dark,
+    fontSize: '13px',
+    fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif',
+    lineColor:         dark ? '#9c9a92' : '#73726c',
+    textColor:         dark ? '#c2c0b6' : '#3d3d3a',
+    primaryColor:      dark ? '#2a2a28' : '#EFF6FF',
+    primaryBorderColor:dark ? '#4a4a46' : '#B5D4F4',
+    primaryTextColor:  dark ? '#c2c0b6' : '#0C447C',
+    secondaryColor:    dark ? '#1e2e1e' : '#EAF3DE',
+    secondaryBorderColor: dark ? '#3a4a3a' : '#97C459',
+    secondaryTextColor:   dark ? '#b0c8a0' : '#27500A',
+    tertiaryColor:     dark ? '#2e1e1e' : '#FAECE7',
+    tertiaryBorderColor:  dark ? '#4a3030' : '#F09975',
+    tertiaryTextColor:    dark ? '#c8a090' : '#993C1D',
+  },
+});
+
+const diagram = `erDiagram
+
+  dzongkhags {
+    int id PK "Primary key"
+    varchar dzongkhag_name "e.g. Thimphu, Paro"
+    varchar region "Western, Eastern, Central, Southern"
+  }
+
+  forest_classes {
+    int id PK "Primary key"
+    varchar forest_type "e.g. Cool broadleaved, Spruce fir"
+    numeric nfi_benchmark_mgc_ha "NFI 2023 carbon density"
+  }
+
+  annual_records {
+    int dzongkhag_id FK "FK to dzongkhags.id"
+    int year "2015-2022"
+    varchar lulucf_category "forest_land, cropland, etc."
+    numeric land_area_ha
+    numeric forest_area_ha "NULL for non-forest rows"
+    numeric forest_cover_pct
+    numeric carbon_stock_tco2
+  }
+
+  annual_forest_type {
+    int dzongkhag_id FK "FK to dzongkhags.id"
+    int year "2015-2022"
+    int forest_class_id FK "FK to forest_classes.id"
+    numeric forest_area_ha
+    numeric carbon_stock_tco2
+  }
+
+  emissions_removals {
+    int dzongkhag_id FK "FK to dzongkhags.id"
+    int year "2015-2022"
+    varchar lulucf_category "Same 6 categories"
+    numeric emissions_tco2e "Gross emissions"
+    numeric removals_tco2e "Gross removals"
+    numeric net_flux_tco2e "Negative = carbon sink"
+  }
+
+  bhutan_spatial_forest_data {
+    int dzongkhag_id FK "FK to dzongkhags.id"
+    varchar dzongkhag_name "Embedded — no JOIN needed"
+    varchar region "Embedded — no JOIN needed"
+    numeric centroid_lon "WGS84 longitude"
+    numeric centroid_lat "WGS84 latitude"
+    numeric area_km2
+    numeric total_area_ha
+    int year "2015-2022"
+    numeric forest_land_ha
+    numeric forest_cover_pct
+    numeric carbon_stock_tco2
+    numeric carbon_density_tco2_per_ha "Pre-calculated"
+    numeric yoy_change_ha "NULL for 2015"
+  }
+
+  field_observations {
+    varchar dzongkhag_name "Free text — no FK"
+    int year
+    varchar region "Some rows NULL (seeded)"
+    numeric forest_area_ha "Some rows NULL (seeded)"
+    varchar area_unit "ha or acres_wrong (seeded)"
+    varchar lulucf_category "Mixed casing (seeded)"
+  }
+
+  dzongkhags ||--o{ annual_records           : "id = dzongkhag_id"
+  dzongkhags ||--o{ annual_forest_type       : "id = dzongkhag_id"
+  dzongkhags ||--o{ emissions_removals       : "id = dzongkhag_id"
+  dzongkhags ||--o{ bhutan_spatial_forest_data : "id = dzongkhag_id"
+  forest_classes ||--o{ annual_forest_type   : "id = forest_class_id"
+`;
+
+const { svg } = await mermaid.render('erd-main', diagram);
+document.getElementById('erd').innerHTML = svg;
+
+// Round entity box corners
+document.querySelectorAll('#erd svg .node').forEach(node => {
+  const firstPath = node.querySelector('path[d]');
+  if (!firstPath) return;
+  const d = firstPath.getAttribute('d');
+  const nums = d.match(/-?[\d.]+/g)?.map(Number);
+  if (!nums || nums.length < 8) return;
+  const xs = [nums[0], nums[2], nums[4], nums[6]];
+  const ys = [nums[1], nums[3], nums[5], nums[7]];
+  const x = Math.min(...xs), y = Math.min(...ys);
+  const w = Math.max(...xs) - x, h = Math.max(...ys) - y;
+  const rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+  rect.setAttribute('x', x); rect.setAttribute('y', y);
+  rect.setAttribute('width', w); rect.setAttribute('height', h);
+  rect.setAttribute('rx', '8');
+  for (const a of ['fill', 'stroke', 'stroke-width', 'class', 'style']) {
+    if (firstPath.hasAttribute(a)) rect.setAttribute(a, firstPath.getAttribute(a));
+  }
+  firstPath.replaceWith(rect);
+});
+
+// Remove borders from attribute rows
+document.querySelectorAll('#erd svg .row-rect-odd path, #erd svg .row-rect-even path').forEach(p => {
+  p.setAttribute('stroke', 'none');
+});
+</script>
+</body>
+</html>
