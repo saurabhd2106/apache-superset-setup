@@ -1,0 +1,1076 @@
+record_id,office,quarter,month,category,product,species,volume_m3,royalty_nu
+1,Bumdeling Wildlife Sanctuary,Q1,Mar,Rural,standing,Chir Pine,126.6420341337566977574915658,3019.444246511317353275021700
+2,Bumdeling Wildlife Sanctuary,Q1,Feb,Rural,standing,Cypress,48.96649930541774161539988093,1990.515686719636776390465380
+3,Bumdeling Wildlife Sanctuary,Q1,Mar,Rural,standing,Broadleaf Mixed,155.8114665608255606271085533,4076.280066769045870334512920
+4,Bumdeling Wildlife Sanctuary,Q1,Jan,Rural,other,Broadleaf Mixed,0,0
+5,Bumdeling Wildlife Sanctuary,Q1,Mar,Commercial,standing,Chir Pine,61.50662833221056683668559330,34509.53752169385629989586949
+6,Bumdeling Wildlife Sanctuary,Q1,Mar,Commercial,standing,Cypress,43.71377393898566066788567029,14275.12582205252805738748120
+7,Bumdeling Wildlife Sanctuary,Q1,Feb,Commercial,standing,Broadleaf Mixed,51.3295977288037724954287364,20258.37665625361564271664931
+8,Bumdeling Wildlife Sanctuary,Q1,Mar,Commercial,other,Broadleaf Mixed,0,0
+9,Bumdeling Wildlife Sanctuary,Q1,Jan,Free,timber,Chir Pine,0,0
+10,Bumdeling Wildlife Sanctuary,Q1,Mar,Free,firewood,Cypress,89.73707042253521126760563380,0
+11,Bumdeling Wildlife Sanctuary,Q1,Jan,Free,firewood,Broadleaf Mixed,203.6994351371386212008895478,0
+12,Bumdeling Wildlife Sanctuary,Q1,Feb,Free,firewood,Chir Pine,64.5034944403261675315048184,0
+13,"Divisional Forest Office, Bumthang",Q1,Feb,Rural,standing,Chir Pine,52.00188271458973752660203358,6673.057197983444326881185038
+14,"Divisional Forest Office, Bumthang",Q1,Feb,Rural,standing,Cypress,310.4929931425868999763537479,7466.609945851745814402190826
+15,"Divisional Forest Office, Bumthang",Q1,Jan,Rural,standing,Broadleaf Mixed,370.1406166942539607472215654,17576.20962220700815335781415
+16,"Divisional Forest Office, Bumthang",Q1,Feb,Rural,standing,Chir Pine,413.9545074485694017498226531,20970.12323395780170535880999
+17,"Divisional Forest Office, Bumthang",Q1,Jan,Rural,other,Blue Pine,0.1572828847130523108176739462,257.6931041623524539242079105
+18,"Divisional Forest Office, Bumthang",Q1,Feb,Rural,other,Hemlock,0.1527171152869476891823260538,462.3068958376475460757920895
+19,"Divisional Forest Office, Bumthang",Q1,Jan,Commercial,standing,Cypress,7.037759324419422941590429275,390.2289759166768899888402568
+20,"Divisional Forest Office, Bumthang",Q1,Feb,Commercial,standing,Broadleaf Mixed,6.282240675580577058409570725,2168.591748693580909727139378
+21,"Divisional Forest Office, Bumthang",Q1,Jan,Commercial,other,Blue Pine,3557.138419460277154974472568,908303.9132542313620975259132
+22,"Divisional Forest Office, Bumthang",Q1,Feb,Commercial,other,Hemlock,2245.913225370755557956724925,345285.2316857197784293884343
+23,"Divisional Forest Office, Bumthang",Q1,Feb,Commercial,other,Oak,4010.958010210972743726194657,353417.1146230124643992787680
+24,"Divisional Forest Office, Bumthang",Q1,Mar,Commercial,other,Blue Pine,2962.063724303735919392744266,695047.5674605108109320872771
+25,"Divisional Forest Office, Bumthang",Q1,Mar,Commercial,other,Hemlock,788.2807650125611172641076204,547485.8714635704981076727968
+26,"Divisional Forest Office, Bumthang",Q1,Jan,Commercial,other,Oak,2329.63585564169750668575596,203753.920788344828234330830
+27,"Divisional Forest Office, Bumthang",Q1,Feb,Free,timber,Chir Pine,0,0
+28,"Divisional Forest Office, Bumthang",Q1,Feb,Free,firewood,Cypress,0,0
+29,"Divisional Forest Office, Dagana",Q1,Mar,Rural,standing,Broadleaf Mixed,210.7974001120238984316654220,597.7223928623665350299839111
+30,"Divisional Forest Office, Dagana",Q1,Jan,Rural,standing,Chir Pine,209.6911524458551157580283794,1502.457998147335576032372873
+31,"Divisional Forest Office, Dagana",Q1,Jan,Rural,standing,Cypress,290.5998179611650485436893204,937.0673297255131392911120862
+32,"Divisional Forest Office, Dagana",Q1,Jan,Rural,standing,Broadleaf Mixed,106.1616294809559372666168782,2630.752279264784749646531130
+33,"Divisional Forest Office, Dagana",Q1,Feb,Rural,other,Oak,0.09392125984251968503937007874,260.0851372158318992844851010
+34,"Divisional Forest Office, Dagana",Q1,Jan,Rural,other,Blue Pine,3.266078740157480314960629921,139.9148627841681007155148990
+35,"Divisional Forest Office, Dagana",Q1,Jan,Commercial,standing,Chir Pine,0,0
+36,"Divisional Forest Office, Dagana",Q1,Mar,Commercial,other,Cypress,6.723507567086353808978761287,2209.538333188115361157096802
+37,"Divisional Forest Office, Dagana",Q1,Feb,Commercial,other,Broadleaf Mixed,9.766492432913646191021238713,4257.911666811884638842903198
+38,"Divisional Forest Office, Dagana",Q1,Feb,Free,timber,Blue Pine,0,0
+39,"Divisional Forest Office, Dagana",Q1,Mar,Free,firewood,Hemlock,0,0
+40,"Divisional Forest Office, Gedu",Q1,Mar,Rural,standing,Oak,346.5321548162644053055011959,2411.278503776525596451264836
+41,"Divisional Forest Office, Gedu",Q1,Mar,Rural,standing,Blue Pine,329.7488225701239399869536856,2420.556408104543819685888982
+42,"Divisional Forest Office, Gedu",Q1,Mar,Rural,standing,Hemlock,159.7326967819091106762339639,2227.673660232586020860808057
+43,"Divisional Forest Office, Gedu",Q1,Feb,Rural,standing,Oak,56.3163258317025440313111546,1086.491427886344563002038125
+44,"Divisional Forest Office, Gedu",Q1,Mar,Rural,other,Cypress,0,0
+45,"Divisional Forest Office, Gedu",Q1,Mar,Commercial,standing,Broadleaf Mixed,53.71914656076727109246216095,20292.95519310088136182983957
+46,"Divisional Forest Office, Gedu",Q1,Jan,Commercial,standing,Chir Pine,264.3281717368499925071182377,40338.82164048495523907917220
+47,"Divisional Forest Office, Gedu",Q1,Feb,Commercial,standing,Cypress,116.7226817023827364004196014,18284.56718304375385895751389
+48,"Divisional Forest Office, Gedu",Q1,Jan,Commercial,other,Cypress,41.15854266658355669139188431,11286.67116026819903410837366
+49,"Divisional Forest Office, Gedu",Q1,Jan,Commercial,other,Broadleaf Mixed,5.298896715078227264227388892,7819.399703564004647116131014
+50,"Divisional Forest Office, Gedu",Q1,Jan,Commercial,other,Chir Pine,67.19256061833821604438072680,1522.86511953820585890896967
+51,"Divisional Forest Office, Gedu",Q1,Mar,Free,timber,Chir Pine,356.8645863589211618257261411,0
+52,"Divisional Forest Office, Gedu",Q1,Jan,Free,timber,Cypress,86.49223029045643153526970954,0
+53,"Divisional Forest Office, Gedu",Q1,Jan,Free,timber,Broadleaf Mixed,144.9249675829875518672199170,0
+54,"Divisional Forest Office, Gedu",Q1,Feb,Free,timber,Chir Pine,60.5782157676348547717842324,0
+55,"Divisional Forest Office, Gedu",Q1,Jan,Free,firewood,Blue Pine,37.42067954045465656318748472,0
+56,"Divisional Forest Office, Gedu",Q1,Jan,Free,firewood,Hemlock,10.57932045954534343681251528,0
+57,"Divisional Forest Office, Mongar",Q1,Mar,Rural,standing,Cypress,108.2582229857715519140125986,7531.862050088955795812234843
+58,"Divisional Forest Office, Mongar",Q1,Jan,Rural,standing,Broadleaf Mixed,90.07463635963173428483326726,376.5170384562748049815245655
+59,"Divisional Forest Office, Mongar",Q1,Mar,Rural,standing,Chir Pine,513.0933791462931148407559138,7420.047899274668126454085124
+60,"Divisional Forest Office, Mongar",Q1,Mar,Rural,standing,Cypress,485.0537615083035989603982203,1345.57301218010127275215547
+61,"Divisional Forest Office, Mongar",Q1,Feb,Rural,other,Hemlock,0,0
+62,"Divisional Forest Office, Mongar",Q1,Jan,Commercial,standing,Oak,0.2300692383778437190900098912,24376.60071491408715502336359
+63,"Divisional Forest Office, Mongar",Q1,Jan,Commercial,standing,Blue Pine,57.91993076162215628090999011,2509.66740635735823446591537
+64,"Divisional Forest Office, Mongar",Q1,Feb,Commercial,other,Chir Pine,65.79965853658536585365853659,46814.77071602028262200106647
+65,"Divisional Forest Office, Mongar",Q1,Feb,Commercial,other,Cypress,133.224,113512.6687698559212340205634
+66,"Divisional Forest Office, Mongar",Q1,Mar,Commercial,other,Broadleaf Mixed,367.0622926829268292682926829,45852.92630965582095657311518
+67,"Divisional Forest Office, Mongar",Q1,Feb,Commercial,other,Chir Pine,131.7540487804878048780487805,116473.3460831965297979159759
+68,"Divisional Forest Office, Mongar",Q1,Mar,Free,timber,Blue Pine,0,0
+69,"Divisional Forest Office, Mongar",Q1,Feb,Free,firewood,Hemlock,0,0
+70,"Divisional Forest Office, Paro",Q1,Feb,Rural,standing,Oak,265.8359944596705272153950432,5275.309234165981211307848825
+71,"Divisional Forest Office, Paro",Q1,Jan,Rural,standing,Blue Pine,489.6310718179942828515014882,1187.337287328455777306376899
+72,"Divisional Forest Office, Paro",Q1,Jan,Rural,standing,Hemlock,717.3838198803524592579494887,1859.547859214684618381748128
+73,"Divisional Forest Office, Paro",Q1,Feb,Rural,standing,Oak,549.0708054106621872513482451,1423.504740464955192865492013
+74,"Divisional Forest Office, Paro",Q1,Feb,Rural,standing,Blue Pine,511.958308431320543423805735,2766.300878825923200138534135
+75,"Divisional Forest Office, Paro",Q1,Mar,Rural,other,Oak,0,0
+76,"Divisional Forest Office, Paro",Q1,Feb,Commercial,standing,Blue Pine,4.834010139087482126608605226,795.1531348511397961766510753
+77,"Divisional Forest Office, Paro",Q1,Mar,Commercial,standing,Hemlock,38.71170414662680358767710906,60514.46670023361823819388288
+78,"Divisional Forest Office, Paro",Q1,Jan,Commercial,standing,Oak,108.8642857142857142857142857,137578.0580195565834843143162
+79,"Divisional Forest Office, Paro",Q1,Jan,Commercial,other,Oak,55.41483430521974114635187029,150783.9993253161525609573608
+80,"Divisional Forest Office, Paro",Q1,Feb,Commercial,other,Blue Pine,157.4033897501540795524581615,134985.3676548670025237538161
+81,"Divisional Forest Office, Paro",Q1,Feb,Commercial,other,Hemlock,120.1917759446261793011899682,148792.5751651755033966039729
+82,"Divisional Forest Office, Paro",Q1,Feb,Free,timber,Hemlock,5.813436380121756400846250162,0
+83,"Divisional Forest Office, Paro",Q1,Mar,Free,timber,Oak,277.4836233323258926643927292,0
+84,"Divisional Forest Office, Paro",Q1,Mar,Free,timber,Blue Pine,185.0665947066188851949397694,0
+85,"Divisional Forest Office, Paro",Q1,Jan,Free,timber,Hemlock,301.0363455809334657398212512,0
+86,"Divisional Forest Office, Paro",Q1,Jan,Free,firewood,Chir Pine,0,0
+87,"Divisional Forest Office, Pema Gatshel",Q1,Feb,Rural,standing,Cypress,272.7282480463826569195865894,936.2798727850976828714220809
+88,"Divisional Forest Office, Pema Gatshel",Q1,Feb,Rural,standing,Broadleaf Mixed,48.52051424250063019914292917,1229.644706951385733757383008
+89,"Divisional Forest Office, Pema Gatshel",Q1,Feb,Rural,standing,Chir Pine,194.4675775144945802873708092,177.9918218991367560199909132
+90,"Divisional Forest Office, Pema Gatshel",Q1,Jan,Rural,standing,Cypress,30.4836601966221325938996722,2376.083598364379827351203998
+91,"Divisional Forest Office, Pema Gatshel",Q1,Feb,Rural,other,Hemlock,0.8621831296923303400559399382,0
+92,"Divisional Forest Office, Pema Gatshel",Q1,Feb,Rural,other,Oak,1.107816870307669659944060062,0
+93,"Divisional Forest Office, Pema Gatshel",Q1,Jan,Commercial,standing,Broadleaf Mixed,1.449306060986321997741247333,142.6901522367112530835231162
+94,"Divisional Forest Office, Pema Gatshel",Q1,Feb,Commercial,standing,Chir Pine,0.710693939013678002258752667,465.4361266902872788796425050
+95,"Divisional Forest Office, Pema Gatshel",Q1,Jan,Commercial,other,Hemlock,142.6439963764137476666300648,17070.21274437903600538117815
+96,"Divisional Forest Office, Pema Gatshel",Q1,Feb,Commercial,other,Oak,60.53422641923794883056989129,9743.471848329097425236790349
+97,"Divisional Forest Office, Pema Gatshel",Q1,Jan,Commercial,other,Blue Pine,169.3117772043483035028000439,78057.12912836486803741886590
+98,"Divisional Forest Office, Pema Gatshel",Q1,Jan,Free,timber,Blue Pine,0,0
+99,"Divisional Forest Office, Pema Gatshel",Q1,Feb,Free,firewood,Hemlock,0,0
+100,"Divisional Forest Office, Samdrup Jongkhar",Q1,Jan,Rural,standing,Oak,208.2523928123694107814458838,1251.667748215444516547696301
+101,"Divisional Forest Office, Samdrup Jongkhar",Q1,Mar,Rural,standing,Blue Pine,217.3505712494776431257835353,1282.915855505083279255894441
+102,"Divisional Forest Office, Samdrup Jongkhar",Q1,Mar,Rural,standing,Hemlock,52.69459130798161303802758044,237.5124378109452736318407960
+103,"Divisional Forest Office, Samdrup Jongkhar",Q1,Mar,Rural,standing,Oak,81.3924446301713330547430005,947.903958468526930564568462
+104,"Divisional Forest Office, Samdrup Jongkhar",Q1,Feb,Rural,other,Cypress,0,0
+105,"Divisional Forest Office, Samdrup Jongkhar",Q1,Jan,Commercial,standing,Broadleaf Mixed,82.39764842963826068534505588,35945.75042253521126760563380
+106,"Divisional Forest Office, Samdrup Jongkhar",Q1,Jan,Commercial,standing,Chir Pine,106.0904480694878449234680367,9.499405502784146740910579758
+107,"Divisional Forest Office, Samdrup Jongkhar",Q1,Feb,Commercial,standing,Cypress,30.2619035008738943911869074,80051.49017196200458565345562
+108,"Divisional Forest Office, Samdrup Jongkhar",Q1,Mar,Commercial,other,Cypress,0,0
+109,"Divisional Forest Office, Samdrup Jongkhar",Q1,Mar,Free,timber,Broadleaf Mixed,78.48612062323431213081071826,0
+110,"Divisional Forest Office, Samdrup Jongkhar",Q1,Jan,Free,timber,Chir Pine,55.72840510230288502696686927,0
+111,"Divisional Forest Office, Samdrup Jongkhar",Q1,Mar,Free,timber,Cypress,61.0354742744628028422224125,0
+112,"Divisional Forest Office, Samdrup Jongkhar",Q1,Jan,Free,firewood,Cypress,0,0
+113,"Divisional Forest Office, Samtse",Q1,Feb,Rural,standing,Broadleaf Mixed,637.5133490212856990052412023,9407.105581652900189192930645
+114,"Divisional Forest Office, Samtse",Q1,Feb,Rural,standing,Chir Pine,337.0468584875387742004492459,11860.64346638364634765354621
+115,"Divisional Forest Office, Samtse",Q1,Feb,Rural,standing,Cypress,319.2148101401219381752059044,2936.201075169581468321720271
+116,"Divisional Forest Office, Samtse",Q1,Mar,Rural,standing,Broadleaf Mixed,683.044982351053588619103647,10662.02987679387199483180287
+117,"Divisional Forest Office, Samtse",Q1,Mar,Rural,other,Oak,0,0
+118,"Divisional Forest Office, Samtse",Q1,Feb,Commercial,standing,Blue Pine,1.130509162303664921465968586,181.7786430942907466864553307
+119,"Divisional Forest Office, Samtse",Q1,Feb,Commercial,standing,Hemlock,1.179490837696335078534031414,115.1956698524924145526233031
+120,"Divisional Forest Office, Samtse",Q1,Feb,Commercial,other,Cypress,55.77765332964142323134431677,6578.039821805622800028912322
+121,"Divisional Forest Office, Samtse",Q1,Mar,Commercial,other,Broadleaf Mixed,30.04234667035857676865568323,4455.005865247594038732009048
+122,"Divisional Forest Office, Samtse",Q1,Feb,Free,timber,Blue Pine,51.72334085778781038374717833,0
+123,"Divisional Forest Office, Samtse",Q1,Feb,Free,timber,Hemlock,5.14665914221218961625282167,0
+124,"Divisional Forest Office, Samtse",Q1,Feb,Free,firewood,Cypress,20.28752196382428940568475452,0
+125,"Divisional Forest Office, Samtse",Q1,Mar,Free,firewood,Broadleaf Mixed,25.45247803617571059431524548,0
+126,"Divisional Forest Office, Sarpang",Q1,Feb,Rural,standing,Blue Pine,203.6982558696693818878773359,1134.311150963940306155127138
+127,"Divisional Forest Office, Sarpang",Q1,Mar,Rural,standing,Hemlock,478.5893291806420699568758984,786.7994619868058669057836418
+128,"Divisional Forest Office, Sarpang",Q1,Feb,Rural,standing,Oak,431.0351126018207954000958313,4268.103503490680842887337475
+129,"Divisional Forest Office, Sarpang",Q1,Feb,Rural,standing,Blue Pine,813.777302347867752755150934,1860.785883558572984051751745
+130,"Divisional Forest Office, Sarpang",Q1,Jan,Rural,other,Broadleaf Mixed,0,0
+131,"Divisional Forest Office, Sarpang",Q1,Mar,Commercial,standing,Chir Pine,738.2211693620046205793495646,272280.9555111847555923777962
+132,"Divisional Forest Office, Sarpang",Q1,Feb,Commercial,standing,Cypress,554.4478909720988093122445353,207024.9677000828500414250207
+133,"Divisional Forest Office, Sarpang",Q1,Mar,Commercial,standing,Broadleaf Mixed,401.3469375333214856939754754,17664.83746478873239436619718
+134,"Divisional Forest Office, Sarpang",Q1,Jan,Commercial,standing,Chir Pine,261.714002132575084414430425,339164.8793239436619718309859
+135,"Divisional Forest Office, Sarpang",Q1,Mar,Commercial,other,Blue Pine,0,0
+136,"Divisional Forest Office, Sarpang",Q1,Mar,Free,timber,Hemlock,64.33820607857672349888806523,0
+137,"Divisional Forest Office, Sarpang",Q1,Feb,Free,timber,Oak,48.75262787249814677538917717,0
+138,"Divisional Forest Office, Sarpang",Q1,Jan,Free,timber,Blue Pine,203.6691660489251297257227576,0
+139,"Divisional Forest Office, Sarpang",Q1,Feb,Free,firewood,Blue Pine,6.391797930841644142044924970,0
+140,"Divisional Forest Office, Sarpang",Q1,Jan,Free,firewood,Hemlock,48.55820206915835585795507503,0
+141,"Divisional Forest Office, Thimphu",Q1,Mar,Rural,standing,Cypress,62.44584066348328725810505152,1859.674915879234846738879926
+142,"Divisional Forest Office, Thimphu",Q1,Feb,Rural,standing,Broadleaf Mixed,124.3231967831113345061573260,718.7187324268264577091495736
+143,"Divisional Forest Office, Thimphu",Q1,Feb,Rural,standing,Chir Pine,45.2309625534053782357376225,824.866351693938695551970500
+144,"Divisional Forest Office, Thimphu",Q1,Jan,Rural,other,Chir Pine,0,0
+145,"Divisional Forest Office, Thimphu",Q1,Mar,Commercial,standing,Cypress,269.0302694051747132568684983,62305.51760650086185668554543
+146,"Divisional Forest Office, Thimphu",Q1,Feb,Commercial,standing,Broadleaf Mixed,72.33143060371654663465813106,28145.83476976114257572026594
+147,"Divisional Forest Office, Thimphu",Q1,Mar,Commercial,standing,Chir Pine,58.3982999911087401084733706,13694.64762373799556759418863
+148,"Divisional Forest Office, Thimphu",Q1,Mar,Commercial,other,Chir Pine,0,0
+149,"Divisional Forest Office, Thimphu",Q1,Jan,Free,timber,Cypress,0,0
+150,"Divisional Forest Office, Thimphu",Q1,Jan,Free,firewood,Broadleaf Mixed,0,0
+151,"Divisional Forest Office, Trashigang",Q1,Feb,Rural,standing,Chir Pine,707.5915474598930481283422460,3685.776299975963464465988302
+152,"Divisional Forest Office, Trashigang",Q1,Feb,Rural,standing,Cypress,284.0274985676088617265087853,10311.02860347728547392035895
+153,"Divisional Forest Office, Trashigang",Q1,Feb,Rural,standing,Broadleaf Mixed,199.1372178189457601222307105,2883.952567903212883583046230
+154,"Divisional Forest Office, Trashigang",Q1,Mar,Rural,standing,Chir Pine,357.973736153552330022918258,3501.24252864353817803060652
+155,"Divisional Forest Office, Trashigang",Q1,Jan,Rural,other,Blue Pine,3.333619793471481045117471758,0
+156,"Divisional Forest Office, Trashigang",Q1,Jan,Rural,other,Hemlock,5.466380206528518954882528242,0
+157,"Divisional Forest Office, Trashigang",Q1,Jan,Commercial,standing,Cypress,97.12265652173913043478260870,27404.40122654815897394094369
+158,"Divisional Forest Office, Trashigang",Q1,Mar,Commercial,standing,Broadleaf Mixed,44.93632077294685990338164251,111933.3008066846650910223571
+159,"Divisional Forest Office, Trashigang",Q1,Feb,Commercial,standing,Chir Pine,61.5710227053140096618357488,52565.0970987335746343411884
+160,"Divisional Forest Office, Trashigang",Q1,Mar,Commercial,other,Chir Pine,5.058177186977632731035580673,3948.142826081293371083765907
+161,"Divisional Forest Office, Trashigang",Q1,Mar,Commercial,other,Cypress,12.73182281302236726896441933,12817.31804195230792961174489
+162,"Divisional Forest Office, Trashigang",Q1,Jan,Free,timber,Oak,0,0
+163,"Divisional Forest Office, Trashigang",Q1,Jan,Free,firewood,Blue Pine,0,0
+164,"Divisional Forest Office, Tsirang",Q1,Mar,Rural,standing,Hemlock,48.73238723108952116585704372,77.35541707663714879195364600
+165,"Divisional Forest Office, Tsirang",Q1,Feb,Rural,standing,Oak,86.71129770992366412213740458,339.4938231114026456761779819
+166,"Divisional Forest Office, Tsirang",Q1,Jan,Rural,standing,Blue Pine,94.3663150589868147120055517,1313.150759811960205531868372
+167,"Divisional Forest Office, Tsirang",Q1,Feb,Rural,other,Blue Pine,10.21228894691035683202785030,438.6138651836225908524307220
+168,"Divisional Forest Office, Tsirang",Q1,Feb,Rural,other,Hemlock,3.34771105308964316797214970,569.3861348163774091475692780
+169,"Divisional Forest Office, Tsirang",Q1,Feb,Commercial,standing,Cypress,0,0
+170,"Divisional Forest Office, Tsirang",Q1,Feb,Commercial,other,Broadleaf Mixed,0,0
+171,"Divisional Forest Office, Tsirang",Q1,Mar,Free,timber,Chir Pine,0,0
+172,"Divisional Forest Office, Tsirang",Q1,Mar,Free,firewood,Cypress,0,0
+173,"Divisional Forest Office, Wangdue",Q1,Feb,Rural,standing,Broadleaf Mixed,0,0
+174,"Divisional Forest Office, Wangdue",Q1,Mar,Rural,other,Chir Pine,0,0
+175,"Divisional Forest Office, Wangdue",Q1,Mar,Commercial,standing,Cypress,0,0
+176,"Divisional Forest Office, Wangdue",Q1,Jan,Commercial,other,Broadleaf Mixed,0,0
+177,"Divisional Forest Office, Wangdue",Q1,Mar,Free,timber,Chir Pine,0,0
+178,"Divisional Forest Office, Wangdue",Q1,Feb,Free,firewood,Cypress,0,0
+179,"Divisional Forest Office, Zhemgang",Q1,Feb,Rural,standing,Broadleaf Mixed,33.64064372029093408166771663,722.1554450971531857207410755
+180,"Divisional Forest Office, Zhemgang",Q1,Jan,Rural,standing,Chir Pine,68.78349349979955329018956532,1005.820153637596023497514686
+181,"Divisional Forest Office, Zhemgang",Q1,Jan,Rural,standing,Cypress,89.0358627799095126281427180,972.024401265250790781744238
+182,"Divisional Forest Office, Zhemgang",Q1,Mar,Rural,other,Cypress,0,0
+183,"Divisional Forest Office, Zhemgang",Q1,Feb,Commercial,standing,Broadleaf Mixed,11.33789559907662521408891206,699.7847412633295052669318242
+184,"Divisional Forest Office, Zhemgang",Q1,Feb,Commercial,standing,Chir Pine,5.51210440092337478591108794,647.3063069944340171124237668
+185,"Divisional Forest Office, Zhemgang",Q1,Feb,Commercial,other,Hemlock,177.2411171171171171171171171,4034.845990022600772047170337
+186,"Divisional Forest Office, Zhemgang",Q1,Mar,Commercial,other,Oak,3.645572715572715572715572716,14822.23232794736012285690768
+187,"Divisional Forest Office, Zhemgang",Q1,Mar,Commercial,other,Blue Pine,76.6233101673101673101673102,1729.83063377227558271656639
+188,"Divisional Forest Office, Zhemgang",Q1,Jan,Free,timber,Blue Pine,0,0
+189,"Divisional Forest Office, Zhemgang",Q1,Mar,Free,firewood,Hemlock,0,0
+190,Jigme Dorji National Park,Q1,Mar,Rural,standing,Oak,12.51861789586560228762063624,169.7118936222605269638020192
+191,Jigme Dorji National Park,Q1,Mar,Rural,standing,Blue Pine,73.11207673060884070058381985,424.9692194040876631371583354
+192,Jigme Dorji National Park,Q1,Jan,Rural,standing,Hemlock,70.48930537352555701179554391,405.3188869736518098990396454
+193,Jigme Dorji National Park,Q1,Mar,Rural,other,Hemlock,0,0
+194,Jigme Dorji National Park,Q1,Jan,Commercial,standing,Oak,115.9941480160017299167477565,35791.22213750728797596089160
+195,Jigme Dorji National Park,Q1,Mar,Commercial,standing,Blue Pine,189.8147664612390528705806033,21506.05060187469166255550074
+196,Jigme Dorji National Park,Q1,Jan,Commercial,standing,Hemlock,112.0410855227592172126716402,42457.33726061802036148360766
+197,Jigme Dorji National Park,Q1,Mar,Commercial,other,Hemlock,0,0
+198,Jigme Dorji National Park,Q1,Mar,Free,timber,Oak,0,0
+199,Jigme Dorji National Park,Q1,Mar,Free,firewood,Blue Pine,0,0
+200,Jigme Khesar Strict Nature Reserve,Q1,Jan,Rural,standing,Hemlock,107.7982206405693950177935943,337.1342712744160633793197651
+201,Jigme Khesar Strict Nature Reserve,Q1,Jan,Rural,standing,Oak,55.96014234875444839857651246,269.2746892501024450211719710
+202,Jigme Khesar Strict Nature Reserve,Q1,Mar,Rural,standing,Blue Pine,70.2416370106761565836298932,353.5910394754814915995082639
+203,Jigme Khesar Strict Nature Reserve,Q1,Mar,Rural,other,Blue Pine,0,0
+204,Jigme Khesar Strict Nature Reserve,Q1,Jan,Commercial,standing,Hemlock,51.47616516699710233338416959,1881.055300662251655629139073
+205,Jigme Khesar Strict Nature Reserve,Q1,Jan,Commercial,standing,Oak,24.91383483300289766661583041,1877.404699337748344370860927
+206,Jigme Khesar Strict Nature Reserve,Q1,Feb,Commercial,other,Broadleaf Mixed,0,0
+207,Jigme Khesar Strict Nature Reserve,Q1,Feb,Free,timber,Chir Pine,0.5310427413411938098747236551,0
+208,Jigme Khesar Strict Nature Reserve,Q1,Jan,Free,timber,Cypress,10.99895725865880619012527634,0
+209,Jigme Khesar Strict Nature Reserve,Q1,Jan,Free,firewood,Oak,0,0
+210,Jigme Singye Wangchuck National Park,Q1,Feb,Rural,standing,Blue Pine,43.07722307766336252526224617,207.2741617357001972386587771
+211,Jigme Singye Wangchuck National Park,Q1,Mar,Rural,standing,Hemlock,68.99774805119815224713694543,660.1972386587771203155818540
+212,Jigme Singye Wangchuck National Park,Q1,Feb,Rural,standing,Oak,80.6550288711384852276008084,412.5285996055226824457593689
+213,Jigme Singye Wangchuck National Park,Q1,Feb,Rural,other,Oak,0,0
+214,Jigme Singye Wangchuck National Park,Q1,Jan,Commercial,standing,Blue Pine,2.109371645503338133263516167,4818.687002907035042240945597
+215,Jigme Singye Wangchuck National Park,Q1,Feb,Commercial,standing,Hemlock,16.18062835449666186673648383,3207.557974479301544286071780
+216,Jigme Singye Wangchuck National Park,Q1,Jan,Commercial,other,Cypress,0.6778031196749246297024511732,4837.861611706767597665471888
+217,Jigme Singye Wangchuck National Park,Q1,Jan,Commercial,other,Broadleaf Mixed,23.04219688032507537029754883,5571.243410906895815807510732
+218,Jigme Singye Wangchuck National Park,Q1,Feb,Free,timber,Blue Pine,0,0
+219,Jigme Singye Wangchuck National Park,Q1,Mar,Free,firewood,Hemlock,0,0
+220,Jomotsangkha Wildlife Sanctuary,Q1,Mar,Rural,standing,Oak,649.3630592200288878189696678,5874.368231046931407942238267
+221,Jomotsangkha Wildlife Sanctuary,Q1,Mar,Rural,standing,Blue Pine,472.4320914780934039480019259,6274.657039711191335740072202
+222,Jomotsangkha Wildlife Sanctuary,Q1,Feb,Rural,standing,Hemlock,10.03489070775156475686085701,2874.801444043321299638989170
+223,Jomotsangkha Wildlife Sanctuary,Q1,Feb,Rural,standing,Oak,859.1274851548708072540523190,1808.231046931407942238267148
+224,Jomotsangkha Wildlife Sanctuary,Q1,Feb,Rural,standing,Blue Pine,751.472473439255336222115230,1647.94223826714801444043321
+225,Jomotsangkha Wildlife Sanctuary,Q1,Mar,Rural,other,Oak,12.55306292987079771164106190,1049.855072463768115942028986
+226,Jomotsangkha Wildlife Sanctuary,Q1,Feb,Rural,other,Blue Pine,11.44693707012920228835893810,210.144927536231884057971014
+227,Jomotsangkha Wildlife Sanctuary,Q1,Feb,Commercial,standing,Chir Pine,670.8183182774409107783690137,48188.90816046543675811061037
+228,Jomotsangkha Wildlife Sanctuary,Q1,Feb,Commercial,standing,Cypress,96.83279173369632471228808316,69793.57547043970652288915404
+229,Jomotsangkha Wildlife Sanctuary,Q1,Mar,Commercial,standing,Broadleaf Mixed,342.0698218042321494864496968,47083.22010594171676646693672
+230,Jomotsangkha Wildlife Sanctuary,Q1,Mar,Commercial,standing,Chir Pine,149.339068184630615022893206,9163.6880490023412257087196
+231,Jomotsangkha Wildlife Sanctuary,Q1,Jan,Commercial,other,Blue Pine,438.9500709135094219353810605,110306.2871608627465793873754
+232,Jomotsangkha Wildlife Sanctuary,Q1,Mar,Commercial,other,Hemlock,253.2035779451017887733556432,56706.27977049350266064568599
+233,Jomotsangkha Wildlife Sanctuary,Q1,Mar,Commercial,other,Oak,375.9450408350264929684076332,24648.47304228470248445898564
+234,Jomotsangkha Wildlife Sanctuary,Q1,Mar,Commercial,other,Blue Pine,346.471310306362296322855663,4087.9082405098470023325323
+235,Jomotsangkha Wildlife Sanctuary,Q1,Feb,Free,timber,Broadleaf Mixed,0,0
+236,Jomotsangkha Wildlife Sanctuary,Q1,Jan,Free,firewood,Chir Pine,0,0
+237,Phibsoo Wildlife Sanctuary,Q1,Jan,Rural,standing,Cypress,0,0
+238,Phibsoo Wildlife Sanctuary,Q1,Jan,Rural,other,Broadleaf Mixed,0,0
+239,Phibsoo Wildlife Sanctuary,Q1,Jan,Commercial,standing,Chir Pine,0,0
+240,Phibsoo Wildlife Sanctuary,Q1,Jan,Commercial,other,Cypress,0,0
+241,Phibsoo Wildlife Sanctuary,Q1,Feb,Free,timber,Broadleaf Mixed,0,0
+242,Phibsoo Wildlife Sanctuary,Q1,Jan,Free,firewood,Chir Pine,0,0
+243,Phrumsengla National Park,Q1,Feb,Rural,standing,Cypress,30.38795978172999191592562652,3070.572350459171010176222388
+244,Phrumsengla National Park,Q1,Jan,Rural,standing,Broadleaf Mixed,94.81736054971705739692805174,3189.048399106478034251675354
+245,Phrumsengla National Park,Q1,Jan,Rural,standing,Chir Pine,46.1446796685529506871463217,6908.379250434350955572102258
+246,Phrumsengla National Park,Q1,Jan,Rural,other,Chir Pine,0,0
+247,Phrumsengla National Park,Q1,Feb,Commercial,standing,Cypress,28.31883436811536150610855197,2688.615497010249044288661342
+248,Phrumsengla National Park,Q1,Mar,Commercial,standing,Broadleaf Mixed,40.62116563188463849389144803,16943.61140180522119975301127
+249,Phrumsengla National Park,Q1,Jan,Commercial,other,Blue Pine,0.6906932865291794646774901272,189.0902910385398864661537491
+250,Phrumsengla National Park,Q1,Mar,Commercial,other,Hemlock,0.4393067134708205353225098728,132.7028101459898694921736409
+251,Phrumsengla National Park,Q1,Feb,Free,timber,Cypress,47.36441005323758821344558623,0
+252,Phrumsengla National Park,Q1,Mar,Free,timber,Broadleaf Mixed,50.15323015971276464033675870,0
+253,Phrumsengla National Park,Q1,Jan,Free,timber,Chir Pine,40.39235978704964714621765507,0
+254,Phrumsengla National Park,Q1,Jan,Free,firewood,Chir Pine,0,0
+255,Royal Manas National Park,Q1,Mar,Rural,standing,Cypress,0,0
+256,Royal Manas National Park,Q1,Jan,Rural,other,Broadleaf Mixed,0,0
+257,Royal Manas National Park,Q1,Feb,Commercial,standing,Chir Pine,0,0
+258,Royal Manas National Park,Q1,Feb,Commercial,other,Cypress,0,0
+259,Royal Manas National Park,Q1,Mar,Free,timber,Broadleaf Mixed,0,0
+260,Royal Manas National Park,Q1,Jan,Free,firewood,Chir Pine,0,0
+261,Sakteng Wildlife Sanctuary,Q1,Jan,Rural,standing,Cypress,39.10902900816397429216605871,409.8348234580997120775875133
+262,Sakteng Wildlife Sanctuary,Q1,Jan,Rural,standing,Broadleaf Mixed,20.58097099183602570783394129,490.1651765419002879224124867
+263,Sakteng Wildlife Sanctuary,Q1,Jan,Rural,other,Blue Pine,0,0
+264,Sakteng Wildlife Sanctuary,Q1,Feb,Commercial,standing,Hemlock,39.88013442078235916024769672,1722.692829635223747243181325
+265,Sakteng Wildlife Sanctuary,Q1,Jan,Commercial,standing,Oak,8.04986557921764083975230328,357.230590913595652884451094
+266,Sakteng Wildlife Sanctuary,Q1,Jan,Commercial,other,Broadleaf Mixed,4.018832300542215336948102246,22.54121483026901598963583558
+267,Sakteng Wildlife Sanctuary,Q1,Mar,Commercial,other,Chir Pine,10.73116769945778466305189775,617.5353646209115838827317454
+268,Sakteng Wildlife Sanctuary,Q1,Feb,Free,timber,Hemlock,0,0
+269,Sakteng Wildlife Sanctuary,Q1,Jan,Free,firewood,Oak,0,0
+270,Wangchuck Centennial National Park,Q1,Mar,Rural,standing,Blue Pine,24.80563563631432639500983117,198.9712522146653712064925416
+271,Wangchuck Centennial National Park,Q1,Feb,Rural,standing,Hemlock,28.96539697606617397789680656,282.8690632679887980796708007
+272,Wangchuck Centennial National Park,Q1,Mar,Rural,standing,Oak,59.00896738761949962709336227,38.1596845173458307138366577
+273,Wangchuck Centennial National Park,Q1,Feb,Rural,other,Oak,6.720230349565568801778136997,0
+274,Wangchuck Centennial National Park,Q1,Mar,Rural,other,Blue Pine,9.139769650434431198221863003,0
+275,Wangchuck Centennial National Park,Q1,Jan,Commercial,standing,Chir Pine,11.24125849802371541501976285,938.2266594574286881979189669
+276,Wangchuck Centennial National Park,Q1,Feb,Commercial,standing,Cypress,18.98874150197628458498023715,509.0783598475906168213860521
+277,Wangchuck Centennial National Park,Q1,Mar,Commercial,other,Oak,6.022059909725071809601969635,860.5450986891213922075929881
+278,Wangchuck Centennial National Park,Q1,Jan,Commercial,other,Blue Pine,38.85794009027492819039803036,1288.149882005859302773101993
+279,Wangchuck Centennial National Park,Q1,Mar,Free,timber,Chir Pine,0,0
+280,Wangchuck Centennial National Park,Q1,Feb,Free,firewood,Cypress,0,0
+281,Bumdeling Wildlife Sanctuary,Q2,May,Rural,standing,Broadleaf Mixed,16.67355850422195416164053076,303.5316729398574517498198126
+282,Bumdeling Wildlife Sanctuary,Q2,Jun,Rural,standing,Chir Pine,6.59644149577804583835946924,296.4683270601425482501801874
+283,Bumdeling Wildlife Sanctuary,Q2,Jun,Rural,other,Hemlock,0,0
+284,Bumdeling Wildlife Sanctuary,Q2,Jun,Commercial,standing,Oak,2.232809306712781009275271184,1873.720615046261186106476566
+285,Bumdeling Wildlife Sanctuary,Q2,Apr,Commercial,standing,Blue Pine,5.107190693287218990724728816,903.269384953738813893523434
+286,Bumdeling Wildlife Sanctuary,Q2,May,Commercial,other,Chir Pine,0,0
+287,Bumdeling Wildlife Sanctuary,Q2,Apr,Free,timber,Cypress,0,0
+288,Bumdeling Wildlife Sanctuary,Q2,Jun,Free,firewood,Broadleaf Mixed,0,0
+289,"Divisional Forest Office, Bumthang",Q2,Jun,Rural,standing,Chir Pine,432.9834245206717731576192968,2865.933014354066985645933014
+290,"Divisional Forest Office, Bumthang",Q2,Apr,Rural,standing,Cypress,97.56032875017841000999096056,13562.56459330143540669856459
+291,"Divisional Forest Office, Bumthang",Q2,May,Rural,standing,Broadleaf Mixed,415.8573052952090965317094058,4477.129186602870813397129187
+292,"Divisional Forest Office, Bumthang",Q2,Apr,Rural,standing,Chir Pine,591.9489414339407203006803368,2934.37320574162679425837321
+293,"Divisional Forest Office, Bumthang",Q2,Jun,Rural,other,Blue Pine,8.475332259363672976238421265,18.47023094851331308708242107
+294,"Divisional Forest Office, Bumthang",Q2,Jun,Rural,other,Hemlock,8.444667740636327023761578735,21.52976905148668691291757893
+295,"Divisional Forest Office, Bumthang",Q2,May,Commercial,standing,Cypress,2.022351625132061400783046423,880.1436020634715157172207562
+296,"Divisional Forest Office, Bumthang",Q2,Jun,Commercial,standing,Broadleaf Mixed,1.447648374867938599216953577,979.0278707090190542826068628
+297,"Divisional Forest Office, Bumthang",Q2,May,Commercial,other,Blue Pine,1078.879354463882254212123168,48297.90042226579347275918171
+298,"Divisional Forest Office, Bumthang",Q2,Jun,Commercial,other,Hemlock,1767.665906655477373959073010,906155.4396078586734922840630
+299,"Divisional Forest Office, Bumthang",Q2,Apr,Commercial,other,Oak,801.8002453037247433993931960,818133.8727708753959497948577
+300,"Divisional Forest Office, Bumthang",Q2,Jun,Commercial,other,Blue Pine,583.5953004970628106642566652,913969.9313615735883912473463
+301,"Divisional Forest Office, Bumthang",Q2,Jun,Commercial,other,Hemlock,749.9251074817636046736814925,651641.7845736715146302160154
+302,"Divisional Forest Office, Bumthang",Q2,May,Commercial,other,Oak,1395.894085598089213091472468,78904.659790982543493698709
+303,"Divisional Forest Office, Bumthang",Q2,Apr,Free,timber,Chir Pine,0,0
+304,"Divisional Forest Office, Bumthang",Q2,Apr,Free,firewood,Cypress,0,0
+305,"Divisional Forest Office, Dagana",Q2,Jun,Rural,standing,Broadleaf Mixed,176.8119458270633175136011112,1047.766709629902412078806850
+306,"Divisional Forest Office, Dagana",Q2,Apr,Rural,standing,Chir Pine,179.3752633406644287533279315,784.3345608543546308230528448
+307,"Divisional Forest Office, Dagana",Q2,May,Rural,standing,Cypress,135.9127908322722537330709573,1179.898729515742957098140305
+308,"Divisional Forest Office, Dagana",Q2,Jun,Rural,other,Cypress,4.519964402254523880154256897,915.2408910378173027111034364
+309,"Divisional Forest Office, Dagana",Q2,Apr,Rural,other,Broadleaf Mixed,2.600035597745476119845743103,44.7591089621826972888965636
+310,"Divisional Forest Office, Dagana",Q2,Jun,Commercial,standing,Blue Pine,0,0
+311,"Divisional Forest Office, Dagana",Q2,May,Commercial,other,Hemlock,0,0
+312,"Divisional Forest Office, Dagana",Q2,May,Free,timber,Oak,101.5643155529116266772423822,0
+313,"Divisional Forest Office, Dagana",Q2,Jun,Free,timber,Blue Pine,141.1344318857822724568709102,0
+314,"Divisional Forest Office, Dagana",Q2,Apr,Free,timber,Hemlock,218.8712525613061008658867076,0
+315,"Divisional Forest Office, Dagana",Q2,Jun,Free,firewood,Hemlock,2.695045123726346433770014556,0
+316,"Divisional Forest Office, Dagana",Q2,Jun,Free,firewood,Oak,8.934954876273653566229985444,0
+317,"Divisional Forest Office, Gedu",Q2,Jun,Rural,standing,Broadleaf Mixed,54.50235324101605640982074590,573.3196365073093638877913868
+318,"Divisional Forest Office, Gedu",Q2,May,Rural,standing,Chir Pine,39.01764675898394359017925410,1066.680363492690636112208613
+319,"Divisional Forest Office, Gedu",Q2,Jun,Rural,other,Hemlock,12.27663252560579565326005496,653.7478885893980233602875112
+320,"Divisional Forest Office, Gedu",Q2,Jun,Rural,other,Oak,20.68336747439420434673994504,287.8521114106019766397124888
+321,"Divisional Forest Office, Gedu",Q2,Apr,Commercial,standing,Broadleaf Mixed,82.75266136576239476145930776,2793.570833218970372245697095
+322,"Divisional Forest Office, Gedu",Q2,Apr,Commercial,standing,Chir Pine,4.829457436856875584658559401,1228.882744848905477171503184
+323,"Divisional Forest Office, Gedu",Q2,May,Commercial,standing,Cypress,89.08788119738072965388213284,921.576218824940570195114430
+324,"Divisional Forest Office, Gedu",Q2,Apr,Commercial,other,Cypress,467.2979582265838725085761431,9749.625867058366971844640503
+325,"Divisional Forest Office, Gedu",Q2,May,Commercial,other,Broadleaf Mixed,177.2040787702462112987971688,10246.66561714369548413475943
+326,"Divisional Forest Office, Gedu",Q2,Apr,Commercial,other,Chir Pine,627.4040253593295410135047115,10697.82477491345521067502123
+327,"Divisional Forest Office, Gedu",Q2,May,Commercial,other,Cypress,375.583937643840375179121977,15410.14394399166591373326413
+328,"Divisional Forest Office, Gedu",Q2,Jun,Free,timber,Hemlock,90.75609470914937152879275066,0
+329,"Divisional Forest Office, Gedu",Q2,Apr,Free,timber,Oak,15.91306050862320958783981292,0
+330,"Divisional Forest Office, Gedu",Q2,Apr,Free,timber,Blue Pine,103.6808447822274188833674364,0
+331,"Divisional Forest Office, Gedu",Q2,Apr,Free,firewood,Blue Pine,33.16689944134078212290502793,0
+332,"Divisional Forest Office, Gedu",Q2,Jun,Free,firewood,Hemlock,22.83310055865921787709497207,0
+333,"Divisional Forest Office, Mongar",Q2,Apr,Rural,standing,Cypress,424.6632714661871427653972128,2300.418493898204186923305884
+334,"Divisional Forest Office, Mongar",Q2,Apr,Rural,standing,Broadleaf Mixed,94.72279558152976687431764177,3400.052584581803750372060720
+335,"Divisional Forest Office, Mongar",Q2,May,Rural,standing,Chir Pine,225.5546837068910153490463040,1326.971921817640638952277012
+336,"Divisional Forest Office, Mongar",Q2,Apr,Rural,standing,Cypress,1234.829249245392075011238841,3066.556999702351423752356384
+337,"Divisional Forest Office, Mongar",Q2,Jun,Rural,other,Hemlock,2.195376373880114528493580863,78.58490566037735849056603774
+338,"Divisional Forest Office, Mongar",Q2,Jun,Rural,other,Oak,11.94462362611988547150641914,201.4150943396226415094339623
+339,"Divisional Forest Office, Mongar",Q2,Apr,Commercial,standing,Broadleaf Mixed,6.221176360576023938657190948,2715.302946628180921987000619
+340,"Divisional Forest Office, Mongar",Q2,May,Commercial,standing,Chir Pine,2.598823639423976061342809052,1142.462759557386088322277732
+341,"Divisional Forest Office, Mongar",Q2,May,Commercial,other,Hemlock,257.9581384525887143688190809,18418.62104411308947030224169
+342,"Divisional Forest Office, Mongar",Q2,May,Commercial,other,Oak,283.3076579406631762652705061,122747.2641214061447205248684
+343,"Divisional Forest Office, Mongar",Q2,Jun,Commercial,other,Blue Pine,204.9383688190808609656777196,106230.0137288130038086226217
+344,"Divisional Forest Office, Mongar",Q2,Apr,Commercial,other,Hemlock,20.9758347876672484002326934,88159.7353994821949902409898
+345,"Divisional Forest Office, Mongar",Q2,May,Free,timber,Chir Pine,0,0
+346,"Divisional Forest Office, Mongar",Q2,Apr,Free,firewood,Cypress,0,0
+347,"Divisional Forest Office, Paro",Q2,May,Rural,standing,Broadleaf Mixed,196.8266937397335280160613251,1537.208060904612628750559785
+348,"Divisional Forest Office, Paro",Q2,Apr,Rural,standing,Chir Pine,608.4439094725314838474174119,2495.451321092700403045230631
+349,"Divisional Forest Office, Paro",Q2,May,Rural,standing,Cypress,264.5464491695564884102938492,3623.239587998208687863860278
+350,"Divisional Forest Office, Paro",Q2,Apr,Rural,standing,Broadleaf Mixed,346.352947618178499726227414,1692.101030004478280340349306
+351,"Divisional Forest Office, Paro",Q2,Jun,Rural,other,Oak,1.812577636084543629708348093,0
+352,"Divisional Forest Office, Paro",Q2,Jun,Rural,other,Blue Pine,5.307422363915456370291651907,0
+353,"Divisional Forest Office, Paro",Q2,Jun,Commercial,standing,Chir Pine,42.01416837782340862422997947,6642.878424088168873661211548
+354,"Divisional Forest Office, Paro",Q2,Jun,Commercial,standing,Cypress,105.2620533880903490759753593,77537.06550111463621180806069
+355,"Divisional Forest Office, Paro",Q2,Jun,Commercial,standing,Broadleaf Mixed,141.3837782340862422997946612,28528.08596378006965220776836
+356,"Divisional Forest Office, Paro",Q2,Jun,Commercial,other,Broadleaf Mixed,892.7771064727819374981931716,322685.5623961783727129357190
+357,"Divisional Forest Office, Paro",Q2,May,Commercial,other,Chir Pine,370.1141189904888554826399931,74276.15012120413845289262161
+358,"Divisional Forest Office, Paro",Q2,May,Commercial,other,Cypress,736.4303408401029169437136827,89350.64553325663887691141936
+359,"Divisional Forest Office, Paro",Q2,Jun,Commercial,other,Broadleaf Mixed,504.2160585123297967679454193,409934.9146295731478943778514
+360,"Divisional Forest Office, Paro",Q2,Apr,Commercial,other,Chir Pine,624.392375184296493307507733,325060.9374308048273252053476
+361,"Divisional Forest Office, Paro",Q2,Jun,Free,timber,Broadleaf Mixed,8.854641037831963594376146166,0
+362,"Divisional Forest Office, Paro",Q2,Apr,Free,timber,Chir Pine,612.6630306323439516402907016,0
+363,"Divisional Forest Office, Paro",Q2,May,Free,timber,Cypress,247.2788725123955715547103172,0
+364,"Divisional Forest Office, Paro",Q2,May,Free,timber,Broadleaf Mixed,89.7834558174285132106228350,0
+365,"Divisional Forest Office, Paro",Q2,May,Free,firewood,Oak,0,0
+366,"Divisional Forest Office, Pema Gatshel",Q2,Apr,Rural,standing,Blue Pine,127.4684282047410539030650762,764.3017176997759522031366692
+367,"Divisional Forest Office, Pema Gatshel",Q2,May,Rural,standing,Hemlock,42.83602144043484825607730636,113.5026138909634055265123226
+368,"Divisional Forest Office, Pema Gatshel",Q2,Jun,Rural,standing,Oak,129.0655503548240978408576174,1162.195668409260642270351008
+369,"Divisional Forest Office, Pema Gatshel",Q2,May,Rural,other,Oak,1.108300025085709507483903336,0
+370,"Divisional Forest Office, Pema Gatshel",Q2,May,Rural,other,Blue Pine,0.861699974914290492516096664,0
+371,"Divisional Forest Office, Pema Gatshel",Q2,Apr,Commercial,standing,Chir Pine,0,0
+372,"Divisional Forest Office, Pema Gatshel",Q2,May,Commercial,other,Cypress,2.542675343456254519161243673,2024.390241357724142727968283
+373,"Divisional Forest Office, Pema Gatshel",Q2,Apr,Commercial,other,Broadleaf Mixed,5.437324656543745480838756327,3626.999758642275857272031717
+374,"Divisional Forest Office, Pema Gatshel",Q2,Jun,Free,timber,Blue Pine,0,0
+375,"Divisional Forest Office, Pema Gatshel",Q2,Jun,Free,firewood,Hemlock,0,0
+376,"Divisional Forest Office, Samdrup Jongkhar",Q2,May,Rural,standing,Oak,100.8225897658282740676496097,316.8009063755278607477598105
+377,"Divisional Forest Office, Samdrup Jongkhar",Q2,Apr,Rural,standing,Blue Pine,569.7909522983521248915871639,23.90153465856421876609331548
+378,"Divisional Forest Office, Samdrup Jongkhar",Q2,Apr,Rural,standing,Hemlock,600.5113087597571552471812663,526.5094242455453702750025749
+379,"Divisional Forest Office, Samdrup Jongkhar",Q2,May,Rural,standing,Oak,376.5580407632263660017346054,251.6840045318776393037387991
+380,"Divisional Forest Office, Samdrup Jongkhar",Q2,Apr,Rural,standing,Blue Pine,507.727108412836079791847355,521.104130188484910907405500
+381,"Divisional Forest Office, Samdrup Jongkhar",Q2,Apr,Rural,other,Oak,26.11835132732122443795249587,52.60625501202886928628708901
+382,"Divisional Forest Office, Samdrup Jongkhar",Q2,Jun,Rural,other,Blue Pine,43.42164867267877556204750413,147.3937449879711307137129110
+383,"Divisional Forest Office, Samdrup Jongkhar",Q2,May,Commercial,standing,Chir Pine,11.95715131773763695587799822,7423.923971779047063916711928
+384,"Divisional Forest Office, Samdrup Jongkhar",Q2,May,Commercial,standing,Cypress,5.84284868226236304412200178,170.613760342643967296247377
+385,"Divisional Forest Office, Samdrup Jongkhar",Q2,Apr,Commercial,other,Oak,42.37740606060606060606060606,31149.07491827954222142003248
+386,"Divisional Forest Office, Samdrup Jongkhar",Q2,May,Commercial,other,Blue Pine,41.06259393939393939393939394,4451.38734959876674736700822
+387,"Divisional Forest Office, Samdrup Jongkhar",Q2,Apr,Free,timber,Chir Pine,0,0
+388,"Divisional Forest Office, Samdrup Jongkhar",Q2,Apr,Free,firewood,Cypress,408.5705371840451955388886183,0
+389,"Divisional Forest Office, Samdrup Jongkhar",Q2,Jun,Free,firewood,Broadleaf Mixed,45.28378512638192178444455267,0
+390,"Divisional Forest Office, Samdrup Jongkhar",Q2,Apr,Free,firewood,Chir Pine,157.4005415672332343057517167,0
+391,"Divisional Forest Office, Samdrup Jongkhar",Q2,Jun,Free,firewood,Cypress,432.3051361223396483709151123,0
+392,"Divisional Forest Office, Samtse",Q2,Apr,Rural,standing,Hemlock,70.60980017805915520823028984,1360.090562930945765153854070
+393,"Divisional Forest Office, Samtse",Q2,Apr,Rural,standing,Oak,27.09106983875754278365812642,37.21313162498713594730884018
+394,"Divisional Forest Office, Samtse",Q2,Apr,Rural,standing,Blue Pine,86.40912998318330200811158374,202.696305444067098898837090
+395,"Divisional Forest Office, Samtse",Q2,May,Rural,other,Blue Pine,0,0
+396,"Divisional Forest Office, Samtse",Q2,Jun,Commercial,standing,Hemlock,0,0
+397,"Divisional Forest Office, Samtse",Q2,May,Commercial,other,Oak,5.462718885332329128224439842,15644.53765172308630680085392
+398,"Divisional Forest Office, Samtse",Q2,Jun,Commercial,other,Blue Pine,63.28728111466767087177556016,14436.64234827691369319914608
+399,"Divisional Forest Office, Samtse",Q2,Jun,Free,timber,Chir Pine,0,0
+400,"Divisional Forest Office, Samtse",Q2,Apr,Free,firewood,Cypress,0,0
+401,"Divisional Forest Office, Sarpang",Q2,Jun,Rural,standing,Broadleaf Mixed,74.56126824301391560131236565,105.8496476115896632732967894
+402,"Divisional Forest Office, Sarpang",Q2,May,Rural,standing,Chir Pine,5.622653015046951012557981672,221.1824588880187940485512921
+403,"Divisional Forest Office, Sarpang",Q2,Apr,Rural,standing,Cypress,79.87607874193913338612965268,512.9678935003915426781519185
+404,"Divisional Forest Office, Sarpang",Q2,Apr,Rural,other,Cypress,0,0
+405,"Divisional Forest Office, Sarpang",Q2,Jun,Commercial,standing,Broadleaf Mixed,173.3554687986709583636174852,10058.19205837173579109062980
+406,"Divisional Forest Office, Sarpang",Q2,Apr,Commercial,standing,Chir Pine,941.9092025750181704911224172,129754.3890629800307219662058
+407,"Divisional Forest Office, Sarpang",Q2,Jun,Commercial,standing,Cypress,228.9095379503686013913404631,77589.11622887864823348694316
+408,"Divisional Forest Office, Sarpang",Q2,Jun,Commercial,standing,Broadleaf Mixed,267.395790675942269753919635,24217.6026497695852534562212
+409,"Divisional Forest Office, Sarpang",Q2,May,Commercial,other,Oak,0,0
+410,"Divisional Forest Office, Sarpang",Q2,May,Free,timber,Blue Pine,72.62016321339621641672407398,0
+411,"Divisional Forest Office, Sarpang",Q2,May,Free,timber,Hemlock,87.02459859042975994912829209,0
+412,"Divisional Forest Office, Sarpang",Q2,May,Free,timber,Oak,6.3052381961740236341476339,0
+413,"Divisional Forest Office, Sarpang",Q2,May,Free,firewood,Oak,3.572120760342899739098024599,0
+414,"Divisional Forest Office, Sarpang",Q2,Jun,Free,firewood,Blue Pine,12.42787923965710026090197540,0
+415,"Divisional Forest Office, Thimphu",Q2,Apr,Rural,standing,Chir Pine,168.2779613187418266914446968,3212.651868699922460584130266
+416,"Divisional Forest Office, Thimphu",Q2,Apr,Rural,standing,Cypress,225.0481795030628398375662468,3640.141835099508917032825019
+417,"Divisional Forest Office, Thimphu",Q2,May,Rural,standing,Broadleaf Mixed,452.2742446142198361896895863,962.9319445162401998793831309
+418,"Divisional Forest Office, Thimphu",Q2,Jun,Rural,standing,Chir Pine,209.1496145639754972812994701,1296.994351684328422503661584
+419,"Divisional Forest Office, Thimphu",Q2,May,Rural,other,Blue Pine,6.901463070685704212938480522,7.493458922030350601779173208
+420,"Divisional Forest Office, Thimphu",Q2,Jun,Rural,other,Hemlock,9.098536929314295787061519478,152.5065410779696493982208268
+421,"Divisional Forest Office, Thimphu",Q2,Apr,Commercial,standing,Cypress,2.667444833986388946174468963,10190.09011217752144215863474
+422,"Divisional Forest Office, Thimphu",Q2,Apr,Commercial,standing,Broadleaf Mixed,54.06255516601361105382553104,8327.99388774124543909885394
+423,"Divisional Forest Office, Thimphu",Q2,May,Commercial,other,Blue Pine,495.2787730433822717739264820,167169.4216484246037105569955
+424,"Divisional Forest Office, Thimphu",Q2,Jun,Commercial,other,Hemlock,560.8443492659233911027707252,337013.9294939183265708898891
+425,"Divisional Forest Office, Thimphu",Q2,Jun,Commercial,other,Oak,223.7253720057401479191963793,23371.80572176177783488416164
+426,"Divisional Forest Office, Thimphu",Q2,Apr,Commercial,other,Blue Pine,633.061505684954189204106414,96866.2791359765250024114651
+427,"Divisional Forest Office, Thimphu",Q2,Jun,Free,timber,Broadleaf Mixed,0,0
+428,"Divisional Forest Office, Thimphu",Q2,May,Free,firewood,Chir Pine,0,0
+429,"Divisional Forest Office, Trashigang",Q2,Apr,Rural,standing,Cypress,121.8424098255378358129080595,1699.767060367454068241469816
+430,"Divisional Forest Office, Trashigang",Q2,May,Rural,standing,Broadleaf Mixed,98.26536390880873381140961147,3728.415354330708661417322835
+431,"Divisional Forest Office, Trashigang",Q2,Jun,Rural,standing,Chir Pine,202.3142989403831745691961897,260.3838582677165354330708661
+432,"Divisional Forest Office, Trashigang",Q2,Jun,Rural,standing,Cypress,94.6679273252702558064861393,31.433727034120734908136483
+433,"Divisional Forest Office, Trashigang",Q2,Apr,Rural,other,Hemlock,0,0
+434,"Divisional Forest Office, Trashigang",Q2,Jun,Commercial,standing,Oak,0,0
+435,"Divisional Forest Office, Trashigang",Q2,Apr,Commercial,other,Blue Pine,0,0
+436,"Divisional Forest Office, Trashigang",Q2,May,Free,timber,Hemlock,0,0
+437,"Divisional Forest Office, Trashigang",Q2,May,Free,firewood,Oak,18.28175119202427394885132206,0
+438,"Divisional Forest Office, Trashigang",Q2,May,Free,firewood,Blue Pine,13.71824880797572605114867794,0
+439,"Divisional Forest Office, Tsirang",Q2,Apr,Rural,standing,Chir Pine,148.9074528680304853590052146,976.2947470034590941999839112
+440,"Divisional Forest Office, Tsirang",Q2,Apr,Rural,standing,Cypress,120.6444364219815483353389491,197.8537527149867267315582013
+441,"Divisional Forest Office, Tsirang",Q2,Jun,Rural,standing,Broadleaf Mixed,108.2481107099879663056558363,1705.851500281554179068457888
+442,"Divisional Forest Office, Tsirang",Q2,Jun,Rural,other,Broadleaf Mixed,0,0
+443,"Divisional Forest Office, Tsirang",Q2,Jun,Commercial,standing,Chir Pine,0,0
+444,"Divisional Forest Office, Tsirang",Q2,May,Commercial,other,Cypress,0,0
+445,"Divisional Forest Office, Tsirang",Q2,May,Free,timber,Broadleaf Mixed,0,0
+446,"Divisional Forest Office, Tsirang",Q2,Jun,Free,firewood,Chir Pine,0,0
+447,"Divisional Forest Office, Wangdue",Q2,Jun,Rural,standing,Cypress,157.3861310133060388945752303,840.8652775568633688563702879
+448,"Divisional Forest Office, Wangdue",Q2,Jun,Rural,standing,Broadleaf Mixed,736.6282838621630842715796656,9099.968188325115317321456975
+449,"Divisional Forest Office, Wangdue",Q2,May,Rural,standing,Chir Pine,644.5722449675878539747526441,7378.733895339589629393987593
+450,"Divisional Forest Office, Wangdue",Q2,May,Rural,standing,Cypress,295.8751279426816786079836233,1714.180054079847303960553523
+451,"Divisional Forest Office, Wangdue",Q2,Jun,Rural,standing,Broadleaf Mixed,275.538212214261344251108837,7576.25258469858438046763162
+452,"Divisional Forest Office, Wangdue",Q2,Apr,Rural,other,Cypress,27.14312546957175056348610068,939.8490566037735849056603774
+453,"Divisional Forest Office, Wangdue",Q2,May,Rural,other,Broadleaf Mixed,37.04357625845229151014274981,2696.981132075471698113207547
+454,"Divisional Forest Office, Wangdue",Q2,Jun,Rural,other,Chir Pine,55.81329827197595792637114951,4063.169811320754716981132076
+455,"Divisional Forest Office, Wangdue",Q2,Jun,Commercial,standing,Chir Pine,16.83771600803750837240455459,3277.173649029537515259129056
+456,"Divisional Forest Office, Wangdue",Q2,May,Commercial,standing,Cypress,19.31228399196249162759544541,10340.87002613751553260668302
+457,"Divisional Forest Office, Wangdue",Q2,Jun,Commercial,other,Oak,141.4038606829857963130855243,18654.22901216724544741229555
+458,"Divisional Forest Office, Wangdue",Q2,May,Commercial,other,Blue Pine,166.0240631610758537322453914,8058.838312621826999236190006
+459,"Divisional Forest Office, Wangdue",Q2,May,Commercial,other,Hemlock,23.0720761559383499546690843,97789.37900004387450548570234
+460,"Divisional Forest Office, Wangdue",Q2,Apr,Free,timber,Hemlock,1022.393165058807982027223470,0
+461,"Divisional Forest Office, Wangdue",Q2,May,Free,timber,Oak,53.06538918990352847892163341,0
+462,"Divisional Forest Office, Wangdue",Q2,Jun,Free,timber,Blue Pine,314.2650270913175631029470067,0
+463,"Divisional Forest Office, Wangdue",Q2,Jun,Free,timber,Hemlock,397.1059957711114047839302233,0
+464,"Divisional Forest Office, Wangdue",Q2,May,Free,timber,Oak,443.980422888859521606977667,0
+465,"Divisional Forest Office, Wangdue",Q2,Apr,Free,firewood,Hemlock,171.8220755785153209256245135,0
+466,"Divisional Forest Office, Wangdue",Q2,Apr,Free,firewood,Oak,79.71314839714103743542565990,0
+467,"Divisional Forest Office, Wangdue",Q2,Apr,Free,firewood,Blue Pine,34.2147760243436416389498266,0
+468,"Divisional Forest Office, Zhemgang",Q2,Jun,Rural,standing,Blue Pine,31.52850613915416098226466576,1667.474625056809574306923193
+469,"Divisional Forest Office, Zhemgang",Q2,Apr,Rural,standing,Hemlock,47.01149386084583901773533424,132.525374943190425693076807
+470,"Divisional Forest Office, Zhemgang",Q2,Apr,Rural,other,Cypress,0,0
+471,"Divisional Forest Office, Zhemgang",Q2,Jun,Commercial,standing,Broadleaf Mixed,14.48884907251264755480607083,6108.533726896017702359595311
+472,"Divisional Forest Office, Zhemgang",Q2,May,Commercial,standing,Chir Pine,6.81115092748735244519392917,341.016947092998772927474085
+473,"Divisional Forest Office, Zhemgang",Q2,May,Commercial,other,Hemlock,15.57388847583643122676579926,3151.703403465070469032438345
+474,"Divisional Forest Office, Zhemgang",Q2,May,Commercial,other,Oak,3.18611152416356877323420074,2528.745922545913055680492259
+475,"Divisional Forest Office, Zhemgang",Q2,Jun,Free,timber,Broadleaf Mixed,0,0
+476,"Divisional Forest Office, Zhemgang",Q2,May,Free,firewood,Chir Pine,0,0
+477,Jigme Dorji National Park,Q2,Apr,Rural,standing,Cypress,0,0
+478,Jigme Dorji National Park,Q2,May,Rural,other,Broadleaf Mixed,0,0
+479,Jigme Dorji National Park,Q2,May,Commercial,standing,Chir Pine,0,0
+480,Jigme Dorji National Park,Q2,Jun,Commercial,other,Cypress,0,0
+481,Jigme Dorji National Park,Q2,Apr,Free,timber,Broadleaf Mixed,0,0
+482,Jigme Dorji National Park,Q2,May,Free,firewood,Chir Pine,0,0
+483,Jigme Khesar Strict Nature Reserve,Q2,May,Rural,standing,Cypress,59.77665496049165935030728709,583.4001048767697954902988988
+484,Jigme Khesar Strict Nature Reserve,Q2,Apr,Rural,standing,Broadleaf Mixed,33.68334503950834064969271291,136.5998951232302045097011012
+485,Jigme Khesar Strict Nature Reserve,Q2,Apr,Rural,other,Blue Pine,0,0
+486,Jigme Khesar Strict Nature Reserve,Q2,Apr,Commercial,standing,Hemlock,3.842585946671138688579574040,2046.307575200534759358288770
+487,Jigme Khesar Strict Nature Reserve,Q2,May,Commercial,standing,Oak,3.777414053328861311420425960,2245.702424799465240641711230
+488,Jigme Khesar Strict Nature Reserve,Q2,Apr,Commercial,other,Broadleaf Mixed,0,0
+489,Jigme Khesar Strict Nature Reserve,Q2,Apr,Free,timber,Chir Pine,15.12674353876739562624254473,0
+490,Jigme Khesar Strict Nature Reserve,Q2,Jun,Free,timber,Cypress,24.79325646123260437375745527,0
+491,Jigme Khesar Strict Nature Reserve,Q2,Apr,Free,firewood,Oak,0,0
+492,Jigme Singye Wangchuck National Park,Q2,May,Rural,standing,Blue Pine,0,0
+493,Jigme Singye Wangchuck National Park,Q2,Apr,Rural,other,Hemlock,0,0
+494,Jigme Singye Wangchuck National Park,Q2,May,Commercial,standing,Oak,0,0
+495,Jigme Singye Wangchuck National Park,Q2,Apr,Commercial,other,Blue Pine,0,0
+496,Jigme Singye Wangchuck National Park,Q2,May,Free,timber,Hemlock,0,0
+497,Jigme Singye Wangchuck National Park,Q2,May,Free,firewood,Oak,0,0
+498,Jomotsangkha Wildlife Sanctuary,Q2,Jun,Rural,standing,Blue Pine,262.2346735840899265023778642,2806.714474972639824894879327
+499,Jomotsangkha Wildlife Sanctuary,Q2,Jun,Rural,standing,Hemlock,163.7820579334198011240812797,2385.830885317666033062611601
+500,Jomotsangkha Wildlife Sanctuary,Q2,Jun,Rural,standing,Oak,232.6645049718979680069174233,865.4242267150509763262484880
+501,Jomotsangkha Wildlife Sanctuary,Q2,Apr,Rural,standing,Blue Pine,136.6187635105923043666234328,72.030412994643165716260584
+502,Jomotsangkha Wildlife Sanctuary,Q2,Jun,Rural,other,Broadleaf Mixed,0,0
+503,Jomotsangkha Wildlife Sanctuary,Q2,May,Commercial,standing,Chir Pine,22.21323529411764705882352941,145.3458701975162010561322342
+504,Jomotsangkha Wildlife Sanctuary,Q2,Jun,Commercial,standing,Cypress,38.20676470588235294117647059,201.4849264159146244201040560
+505,Jomotsangkha Wildlife Sanctuary,Q2,May,Commercial,other,Oak,4005.749964565785652047632878,3977.213791555039761495722928
+506,Jomotsangkha Wildlife Sanctuary,Q2,Apr,Commercial,other,Blue Pine,3190.717023525994772001161778,26794.51091222960844750105346
+507,Jomotsangkha Wildlife Sanctuary,Q2,Apr,Commercial,other,Hemlock,3995.361363926808016264885274,19620.71567144957163952777510
+508,Jomotsangkha Wildlife Sanctuary,Q2,May,Commercial,other,Oak,1948.334828928260238164391519,1382.305491556755479557861809
+509,Jomotsangkha Wildlife Sanctuary,Q2,May,Commercial,other,Blue Pine,1894.030780133604414754574499,14850.52752424701813194640377
+510,Jomotsangkha Wildlife Sanctuary,Q2,Apr,Commercial,other,Hemlock,1223.96603891954690676735405,26701.94581234857571449494664
+511,Jomotsangkha Wildlife Sanctuary,Q2,Jun,Free,timber,Broadleaf Mixed,0,0
+512,Jomotsangkha Wildlife Sanctuary,Q2,May,Free,firewood,Chir Pine,0,0
+513,Phibsoo Wildlife Sanctuary,Q2,Jun,Rural,standing,Cypress,0,0
+514,Phibsoo Wildlife Sanctuary,Q2,Jun,Rural,other,Broadleaf Mixed,0,0
+515,Phibsoo Wildlife Sanctuary,Q2,May,Commercial,standing,Chir Pine,0,0
+516,Phibsoo Wildlife Sanctuary,Q2,May,Commercial,other,Cypress,0,0
+517,Phibsoo Wildlife Sanctuary,Q2,Apr,Free,timber,Broadleaf Mixed,0,0
+518,Phibsoo Wildlife Sanctuary,Q2,Apr,Free,firewood,Chir Pine,0,0
+519,Phrumsengla National Park,Q2,Apr,Rural,standing,Cypress,54.06125461254612546125461255,503.9671436142024377318494966
+520,Phrumsengla National Park,Q2,May,Rural,standing,Broadleaf Mixed,16.82874538745387453874538745,942.0328563857975622681505034
+521,Phrumsengla National Park,Q2,Jun,Rural,other,Blue Pine,0,0
+522,Phrumsengla National Park,Q2,May,Commercial,standing,Hemlock,15.62945559374653509258232620,6917.026323878673794581580288
+523,Phrumsengla National Park,Q2,Apr,Commercial,standing,Oak,15.46054440625346490741767380,9136.047176566959003992394752
+524,Phrumsengla National Park,Q2,May,Commercial,other,Broadleaf Mixed,6.243570552147239263803680982,3587.877318408349367057080059
+525,Phrumsengla National Park,Q2,Jun,Commercial,other,Chir Pine,7.546429447852760736196319018,3532.479181146017834368944901
+526,Phrumsengla National Park,Q2,May,Free,timber,Hemlock,0,0
+527,Phrumsengla National Park,Q2,Apr,Free,firewood,Oak,0,0
+528,Royal Manas National Park,Q2,Jun,Rural,standing,Blue Pine,29.86524714828897338403041825,390.6693711967545638945233266
+529,Royal Manas National Park,Q2,Apr,Rural,standing,Hemlock,14.93475285171102661596958175,209.3306288032454361054766734
+530,Royal Manas National Park,Q2,May,Rural,other,Cypress,0,0
+531,Royal Manas National Park,Q2,Apr,Commercial,standing,Broadleaf Mixed,6.213467226009438909281594127,1154.921750554232695623614418
+532,Royal Manas National Park,Q2,Jun,Commercial,standing,Chir Pine,3.616532773990561090718405873,4409.078249445767304376385582
+533,Royal Manas National Park,Q2,May,Commercial,other,Hemlock,0,0
+534,Royal Manas National Park,Q2,Jun,Free,timber,Oak,0,0
+535,Royal Manas National Park,Q2,Apr,Free,firewood,Blue Pine,0,0
+536,Sakteng Wildlife Sanctuary,Q2,Apr,Rural,standing,Hemlock,47.17473713413788320155361354,121.7708333333333333333333333
+537,Sakteng Wildlife Sanctuary,Q2,May,Rural,standing,Oak,49.18593841032043279234290470,5534.375
+538,Sakteng Wildlife Sanctuary,Q2,Apr,Rural,standing,Blue Pine,19.62932445554168400610348176,2533.854166666666666666666667
+539,Sakteng Wildlife Sanctuary,Q2,Apr,Rural,other,Blue Pine,0,0
+540,Sakteng Wildlife Sanctuary,Q2,May,Commercial,standing,Hemlock,5.666495493260563962623005044,590.2423140495867768595041322
+541,Sakteng Wildlife Sanctuary,Q2,May,Commercial,standing,Oak,4.163504506739436037376994956,67.7576859504132231404958678
+542,Sakteng Wildlife Sanctuary,Q2,Jun,Commercial,other,Broadleaf Mixed,0,0
+543,Sakteng Wildlife Sanctuary,Q2,Jun,Free,timber,Chir Pine,0,0
+544,Sakteng Wildlife Sanctuary,Q2,May,Free,firewood,Cypress,0,0
+545,Wangchuck Centennial National Park,Q2,May,Rural,standing,Broadleaf Mixed,130.6047916439995647916439996,560.3040841083704003234937323
+546,Wangchuck Centennial National Park,Q2,Jun,Rural,standing,Chir Pine,6.526173430529866173430529866,24.06469874646178730287100687
+547,Wangchuck Centennial National Park,Q2,Apr,Rural,standing,Cypress,49.7290349254705690349254705,1135.631217145167812373635261
+548,Wangchuck Centennial National Park,Q2,May,Rural,other,Cypress,0,0
+549,Wangchuck Centennial National Park,Q2,Apr,Commercial,standing,Broadleaf Mixed,0,0
+550,Wangchuck Centennial National Park,Q2,Jun,Commercial,other,Chir Pine,0,0
+551,Wangchuck Centennial National Park,Q2,May,Free,timber,Cypress,0,0
+552,Wangchuck Centennial National Park,Q2,Jun,Free,firewood,Broadleaf Mixed,0,0
+553,Bumdeling Wildlife Sanctuary,Q3,Aug,Rural,standing,Chir Pine,9.665048957002979991485738612,58.44980058956129703485347668
+554,Bumdeling Wildlife Sanctuary,Q3,Aug,Rural,standing,Cypress,9.214951042997020008514261388,61.55019941043870296514652332
+555,Bumdeling Wildlife Sanctuary,Q3,Sep,Rural,other,Oak,0,0
+556,Bumdeling Wildlife Sanctuary,Q3,Sep,Commercial,standing,Blue Pine,36.21811672245670208121088633,44021.66436859170975374638507
+557,Bumdeling Wildlife Sanctuary,Q3,Jul,Commercial,standing,Hemlock,27.36293407073206229078736720,1992.900375953027780212076067
+558,Bumdeling Wildlife Sanctuary,Q3,Jul,Commercial,standing,Oak,80.59894920681123562800174647,6024.30525545526246604153886
+559,Bumdeling Wildlife Sanctuary,Q3,Jul,Commercial,other,Oak,0,0
+560,Bumdeling Wildlife Sanctuary,Q3,Aug,Free,timber,Blue Pine,0,0
+561,Bumdeling Wildlife Sanctuary,Q3,Sep,Free,firewood,Hemlock,0,0
+562,"Divisional Forest Office, Bumthang",Q3,Aug,Rural,standing,Oak,312.4209588299024918743228602,4319.601679195548179244362003
+563,"Divisional Forest Office, Bumthang",Q3,Sep,Rural,standing,Blue Pine,427.5054171180931744312026002,3585.988479937518305184028117
+564,"Divisional Forest Office, Bumthang",Q3,Jul,Rural,standing,Hemlock,409.7211917659804983748645720,1786.820267499755930879625110
+565,"Divisional Forest Office, Bumthang",Q3,Jul,Rural,standing,Oak,113.032432286023835319609968,5187.589573367177584691984770
+566,"Divisional Forest Office, Bumthang",Q3,Sep,Rural,other,Cypress,0,0
+567,"Divisional Forest Office, Bumthang",Q3,Sep,Commercial,standing,Broadleaf Mixed,13.16030324652158401712450945,1360.676758242781640932483790
+568,"Divisional Forest Office, Bumthang",Q3,Aug,Commercial,standing,Chir Pine,13.16969675347841598287549055,10159.64936647580049755255948
+569,"Divisional Forest Office, Bumthang",Q3,Sep,Commercial,other,Hemlock,2556.459839945280437756497948,141971.4270956408604387638584
+570,"Divisional Forest Office, Bumthang",Q3,Aug,Commercial,other,Oak,1463.926799361605107159142727,282555.5112554936994400153665
+571,"Divisional Forest Office, Bumthang",Q3,Sep,Commercial,other,Blue Pine,113.8640971272229822161422709,646964.2557224806636932594069
+572,"Divisional Forest Office, Bumthang",Q3,Jul,Commercial,other,Hemlock,992.1639475604195166438668491,182851.7989368612254641277838
+573,"Divisional Forest Office, Bumthang",Q3,Jul,Commercial,other,Oak,576.3491336069311445508435933,804288.9446408422947071599434
+574,"Divisional Forest Office, Bumthang",Q3,Aug,Commercial,other,Blue Pine,462.766182398540811673506612,639010.156223962674118188598
+575,"Divisional Forest Office, Bumthang",Q3,Sep,Free,timber,Cypress,17.81482509716823986674069961,0
+576,"Divisional Forest Office, Bumthang",Q3,Sep,Free,timber,Broadleaf Mixed,52.25682028502683694243938553,0
+577,"Divisional Forest Office, Bumthang",Q3,Aug,Free,timber,Chir Pine,74.12835461780492319081991486,0
+578,"Divisional Forest Office, Bumthang",Q3,Sep,Free,firewood,Chir Pine,0,0
+579,"Divisional Forest Office, Dagana",Q3,Jul,Rural,standing,Cypress,65.15312602291325695581014730,104.6129860601614086573734409
+580,"Divisional Forest Office, Dagana",Q3,Sep,Rural,standing,Broadleaf Mixed,32.41687397708674304418985270,745.3870139398385913426265591
+581,"Divisional Forest Office, Dagana",Q3,Jul,Rural,other,Blue Pine,0.4301249547265483520463600145,81.82807399347116430903155604
+582,"Divisional Forest Office, Dagana",Q3,Sep,Rural,other,Hemlock,2.919875045273451647953639986,118.1719260065288356909684440
+583,"Divisional Forest Office, Dagana",Q3,Aug,Commercial,standing,Cypress,0,0
+584,"Divisional Forest Office, Dagana",Q3,Aug,Commercial,other,Broadleaf Mixed,9.965748898678414096916299559,5487.843213530655391120507400
+585,"Divisional Forest Office, Dagana",Q3,Jul,Commercial,other,Chir Pine,3.934251101321585903083700441,1064.716786469344608879492600
+586,"Divisional Forest Office, Dagana",Q3,Jul,Free,timber,Hemlock,0,0
+587,"Divisional Forest Office, Dagana",Q3,Jul,Free,firewood,Oak,0,0
+588,"Divisional Forest Office, Gedu",Q3,Sep,Rural,standing,Blue Pine,267.0664520617252719453579560,924.9560763221923421692918427
+589,"Divisional Forest Office, Gedu",Q3,Sep,Rural,standing,Hemlock,57.21726663293700986592461422,843.4803431937508003585606352
+590,"Divisional Forest Office, Gedu",Q3,Sep,Rural,standing,Oak,91.1062813053377181887174298,1163.563580484056857472147522
+591,"Divisional Forest Office, Gedu",Q3,Aug,Rural,other,Oak,0,0
+592,"Divisional Forest Office, Gedu",Q3,Jul,Commercial,standing,Blue Pine,3.574070043529877324891175307,221.2338701614847127301584283
+593,"Divisional Forest Office, Gedu",Q3,Sep,Commercial,standing,Hemlock,23.28592995647012267510882469,3970.791140575809489130972567
+594,"Divisional Forest Office, Gedu",Q3,Aug,Commercial,other,Cypress,20.32227461397974431346505064,12734.58592907178561067944475
+595,"Divisional Forest Office, Gedu",Q3,Jul,Commercial,other,Broadleaf Mixed,78.54772538602025568653494936,2695.99906019092018745942425
+596,"Divisional Forest Office, Gedu",Q3,Sep,Free,timber,Blue Pine,21.93287192025578333646793304,0
+597,"Divisional Forest Office, Gedu",Q3,Aug,Free,timber,Hemlock,20.42712807974421666353206696,0
+598,"Divisional Forest Office, Gedu",Q3,Sep,Free,firewood,Cypress,0,0
+599,"Divisional Forest Office, Mongar",Q3,Jul,Rural,standing,Broadleaf Mixed,73.53868194842406876790830946,328.5471264367816091954022989
+600,"Divisional Forest Office, Mongar",Q3,Sep,Rural,standing,Chir Pine,276.8794770773638968481375358,3890.689655172413793103448276
+601,"Divisional Forest Office, Mongar",Q3,Aug,Rural,standing,Cypress,20.73030085959885386819484241,2201.164029749830966869506423
+602,"Divisional Forest Office, Mongar",Q3,Aug,Rural,standing,Broadleaf Mixed,204.1015401146131805157593123,3358.199188640973630831643002
+603,"Divisional Forest Office, Mongar",Q3,Sep,Rural,other,Oak,78.90673136605123349639682289,192.7042824764404151258499344
+604,"Divisional Forest Office, Mongar",Q3,Sep,Rural,other,Blue Pine,4.980133080847930145705118090,317.5700823094357628533937731
+605,"Divisional Forest Office, Mongar",Q3,Aug,Rural,other,Hemlock,68.08313555310083635789805902,19.7256352141238220207562925
+606,"Divisional Forest Office, Mongar",Q3,Sep,Commercial,standing,Hemlock,2.696042216358839050131926121,1388.117412353960884275871927
+607,"Divisional Forest Office, Mongar",Q3,Sep,Commercial,standing,Oak,9.093957783641160949868073879,1314.119470901443498762488961
+608,"Divisional Forest Office, Mongar",Q3,Sep,Commercial,other,Broadleaf Mixed,304.2304542795866640670696042,72959.16925047863427604650223
+609,"Divisional Forest Office, Mongar",Q3,Jul,Commercial,other,Chir Pine,92.55483525053616689413140963,56503.49134178056896727857923
+610,"Divisional Forest Office, Mongar",Q3,Jul,Commercial,other,Cypress,324.4453597192435172548255020,8678.768968527017764115886334
+611,"Divisional Forest Office, Mongar",Q3,Sep,Commercial,other,Broadleaf Mixed,73.2693507506336517839734842,43955.8735559583746095206713
+612,"Divisional Forest Office, Mongar",Q3,Sep,Free,timber,Oak,2.840707964601769911504424779,0
+613,"Divisional Forest Office, Mongar",Q3,Aug,Free,timber,Blue Pine,2.509292035398230088495575221,0
+614,"Divisional Forest Office, Mongar",Q3,Sep,Free,firewood,Chir Pine,0,0
+615,"Divisional Forest Office, Paro",Q3,Jul,Rural,standing,Cypress,4.535162624985633835191357315,1915.591764532455407596678296
+616,"Divisional Forest Office, Paro",Q3,Sep,Rural,standing,Broadleaf Mixed,24.22440524077692219285139639,2471.478747973072576286177583
+617,"Divisional Forest Office, Paro",Q3,Aug,Rural,standing,Chir Pine,224.9883116883116883116883117,3404.481548818239889931698688
+618,"Divisional Forest Office, Paro",Q3,Jul,Rural,standing,Cypress,708.7021204459257556602689346,1060.447938676232126185445433
+619,"Divisional Forest Office, Paro",Q3,Sep,Rural,other,Hemlock,4.866745650682796034170979610,11.16979139160285186163189860
+620,"Divisional Forest Office, Paro",Q3,Jul,Rural,other,Oak,3.133254349317203965829020390,188.8302086083971481383681014
+621,"Divisional Forest Office, Paro",Q3,Aug,Commercial,standing,Broadleaf Mixed,119.8387452411167512690355330,21038.10649461514460360653458
+622,"Divisional Forest Office, Paro",Q3,Jul,Commercial,standing,Chir Pine,263.9397525380710659898477157,7647.236838136238210047305082
+623,"Divisional Forest Office, Paro",Q3,Sep,Commercial,standing,Cypress,58.2715022208121827411167513,9515.49542520154566314568930
+624,"Divisional Forest Office, Paro",Q3,Jul,Commercial,other,Cypress,201.0910921920539960116582298,20883.69325549089932575593900
+625,"Divisional Forest Office, Paro",Q3,Aug,Commercial,other,Broadleaf Mixed,63.03808508462443114997187708,5197.943897878566711582299077
+626,"Divisional Forest Office, Paro",Q3,Aug,Commercial,other,Chir Pine,309.8407715907347752722810247,25360.08349115290107383830796
+627,"Divisional Forest Office, Paro",Q3,Sep,Commercial,other,Cypress,206.8000511325867975660888684,16030.44059752470441202392500
+628,"Divisional Forest Office, Paro",Q3,Aug,Free,timber,Hemlock,182.4494829446427089385011204,0
+629,"Divisional Forest Office, Paro",Q3,Sep,Free,timber,Oak,177.4863391152792762884886713,0
+630,"Divisional Forest Office, Paro",Q3,Aug,Free,timber,Blue Pine,454.3973964644368827288571666,0
+631,"Divisional Forest Office, Paro",Q3,Sep,Free,timber,Hemlock,485.6867814756411320441530417,0
+632,"Divisional Forest Office, Paro",Q3,Sep,Free,firewood,Chir Pine,0,0
+633,"Divisional Forest Office, Pema Gatshel",Q3,Jul,Rural,standing,Cypress,35.64957549704459967759269210,575.5948749237339841366687004
+634,"Divisional Forest Office, Pema Gatshel",Q3,Aug,Rural,standing,Broadleaf Mixed,45.14879365932294465341214401,562.7211714460036607687614399
+635,"Divisional Forest Office, Pema Gatshel",Q3,Sep,Rural,standing,Chir Pine,55.71163084363245566899516389,461.683953630262355094569860
+636,"Divisional Forest Office, Pema Gatshel",Q3,Jul,Rural,other,Chir Pine,4.056036535150108557310773377,93.17773788150807899461400359
+637,"Divisional Forest Office, Pema Gatshel",Q3,Aug,Rural,other,Cypress,1.873963464849891442689226623,56.82226211849192100538599641
+638,"Divisional Forest Office, Pema Gatshel",Q3,Sep,Commercial,standing,Oak,0,0
+639,"Divisional Forest Office, Pema Gatshel",Q3,Aug,Commercial,other,Blue Pine,2.101364609347128077060292544,3445.233103945235092776076383
+640,"Divisional Forest Office, Pema Gatshel",Q3,Aug,Commercial,other,Hemlock,11.79863539065287192293970746,4630.986896054764907223923617
+641,"Divisional Forest Office, Pema Gatshel",Q3,Jul,Free,timber,Cypress,0,0
+642,"Divisional Forest Office, Pema Gatshel",Q3,Aug,Free,firewood,Broadleaf Mixed,0,0
+643,"Divisional Forest Office, Samdrup Jongkhar",Q3,Aug,Rural,standing,Chir Pine,67.78980900073776539060578736,747.9778677770806000798585363
+644,"Divisional Forest Office, Samdrup Jongkhar",Q3,Jul,Rural,standing,Cypress,22.55702926469382736289859825,261.4545661970224174319776396
+645,"Divisional Forest Office, Samdrup Jongkhar",Q3,Jul,Rural,standing,Broadleaf Mixed,70.57316173456840724649561439,470.567566025896982488163824
+646,"Divisional Forest Office, Samdrup Jongkhar",Q3,Sep,Rural,other,Broadleaf Mixed,0,173.34
+647,"Divisional Forest Office, Samdrup Jongkhar",Q3,Aug,Commercial,standing,Chir Pine,2.097801644571236784695418694,4644.114433915005811475918051
+648,"Divisional Forest Office, Samdrup Jongkhar",Q3,Jul,Commercial,standing,Cypress,27.95219835542876321530458131,5040.369931689323713478982731
+649,"Divisional Forest Office, Samdrup Jongkhar",Q3,Jul,Commercial,other,Oak,12.91474695707879564381806534,2795.876227849688083048604864
+650,"Divisional Forest Office, Samdrup Jongkhar",Q3,Jul,Commercial,other,Blue Pine,6.92525304292120435618193466,3598.139406545982391996494354
+651,"Divisional Forest Office, Samdrup Jongkhar",Q3,Sep,Free,timber,Chir Pine,0,0
+652,"Divisional Forest Office, Samdrup Jongkhar",Q3,Jul,Free,firewood,Cypress,894.7884200857317819963257808,0
+653,"Divisional Forest Office, Samdrup Jongkhar",Q3,Jul,Free,firewood,Broadleaf Mixed,413.4766778934476423759951010,0
+654,"Divisional Forest Office, Samdrup Jongkhar",Q3,Jul,Free,firewood,Chir Pine,88.08797917942437232088181261,0
+655,"Divisional Forest Office, Samdrup Jongkhar",Q3,Jul,Free,firewood,Cypress,197.526922841396203306797305,0
+656,"Divisional Forest Office, Samtse",Q3,Sep,Rural,standing,Hemlock,68.9568,1910.759680729760547320410490
+657,"Divisional Forest Office, Samtse",Q3,Aug,Rural,standing,Oak,175.7277786848072562358276644,560.3052679589509692132269099
+658,"Divisional Forest Office, Samtse",Q3,Jul,Rural,standing,Blue Pine,42.6354213151927437641723356,1795.935051311288483466362600
+659,"Divisional Forest Office, Samtse",Q3,Sep,Rural,other,Blue Pine,62.10783587616649385276255370,1151.700102006120367222033322
+660,"Divisional Forest Office, Samtse",Q3,Sep,Rural,other,Hemlock,29.89216412383350614723744630,1188.299897993879632777966678
+661,"Divisional Forest Office, Samtse",Q3,Aug,Commercial,standing,Cypress,19.95256167571761055081458495,7873.723830294407662545287231
+662,"Divisional Forest Office, Samtse",Q3,Sep,Commercial,standing,Broadleaf Mixed,146.7202668735453840186190846,25159.39722863574957244794170
+663,"Divisional Forest Office, Samtse",Q3,Aug,Commercial,standing,Chir Pine,139.7471714507370054305663304,10684.58237266233393982779314
+664,"Divisional Forest Office, Samtse",Q3,Jul,Commercial,other,Chir Pine,59.73431664115460310518259348,46903.56755434591178314825826
+665,"Divisional Forest Office, Samtse",Q3,Sep,Commercial,other,Cypress,222.2288286318244770026969896,31981.65840799078776418514999
+666,"Divisional Forest Office, Samtse",Q3,Sep,Commercial,other,Broadleaf Mixed,327.2674473358116480793060719,9947.939430903416012642072184
+667,"Divisional Forest Office, Samtse",Q3,Sep,Commercial,other,Chir Pine,296.7894073912092718128143450,40430.96117516739326520349747
+668,"Divisional Forest Office, Samtse",Q3,Aug,Free,timber,Blue Pine,0,0
+669,"Divisional Forest Office, Samtse",Q3,Sep,Free,firewood,Hemlock,1.552951105157401205626255861,0
+670,"Divisional Forest Office, Samtse",Q3,Sep,Free,firewood,Oak,1.477048894842598794373744139,0
+671,"Divisional Forest Office, Sarpang",Q3,Sep,Rural,standing,Broadleaf Mixed,3.239033359600735487260309955,962.8490028490028490028490028
+672,"Divisional Forest Office, Sarpang",Q3,Jul,Rural,standing,Chir Pine,265.1889939584975045967953769,642.0838420838420838420838421
+673,"Divisional Forest Office, Sarpang",Q3,Sep,Rural,standing,Cypress,45.0719726819017599159443131,1115.067155067155067155067155
+674,"Divisional Forest Office, Sarpang",Q3,Jul,Rural,other,Cypress,0,0
+675,"Divisional Forest Office, Sarpang",Q3,Aug,Commercial,standing,Broadleaf Mixed,0,0
+676,"Divisional Forest Office, Sarpang",Q3,Aug,Commercial,other,Chir Pine,69.99453032440056417489421721,8955.703812763200518302559119
+677,"Divisional Forest Office, Sarpang",Q3,Sep,Commercial,other,Cypress,86.40350446638457921955806300,55447.84274052478134110787172
+678,"Divisional Forest Office, Sarpang",Q3,Jul,Commercial,other,Broadleaf Mixed,233.1319652092148566055477198,124523.0434467120181405895692
+679,"Divisional Forest Office, Sarpang",Q3,Jul,Free,timber,Broadleaf Mixed,38.84540216805414146253818051,0
+680,"Divisional Forest Office, Sarpang",Q3,Jul,Free,timber,Chir Pine,35.09459783194585853746181949,0
+681,"Divisional Forest Office, Sarpang",Q3,Jul,Free,firewood,Hemlock,674.4377184755733651632705260,0
+682,"Divisional Forest Office, Sarpang",Q3,Jul,Free,firewood,Oak,186.1613948333191235399437292,0
+683,"Divisional Forest Office, Sarpang",Q3,Jul,Free,firewood,Blue Pine,619.5014493989257396197459289,0
+684,"Divisional Forest Office, Sarpang",Q3,Sep,Free,firewood,Hemlock,140.899437292181771677039816,0
+685,"Divisional Forest Office, Thimphu",Q3,Sep,Rural,standing,Chir Pine,7.216552692269126641933219693,1943.638253326237360298030867
+686,"Divisional Forest Office, Thimphu",Q3,Sep,Rural,standing,Cypress,304.9777920385039606938734583,1557.503354976051091005854178
+687,"Divisional Forest Office, Thimphu",Q3,Sep,Rural,standing,Broadleaf Mixed,295.9571011731675523914569337,399.0986599254922831293241086
+688,"Divisional Forest Office, Thimphu",Q3,Aug,Rural,standing,Chir Pine,174.1385540960593602727363883,1899.499731772219265566790846
+689,"Divisional Forest Office, Thimphu",Q3,Sep,Rural,other,Blue Pine,1.202365058172801831012778943,38.33725490196078431372549020
+690,"Divisional Forest Office, Thimphu",Q3,Jul,Rural,other,Hemlock,2.797634941827198168987221057,26.66274509803921568627450980
+691,"Divisional Forest Office, Thimphu",Q3,Aug,Commercial,standing,Cypress,33.86021853757702814306587891,4335.055145477449751333142920
+692,"Divisional Forest Office, Thimphu",Q3,Sep,Commercial,standing,Broadleaf Mixed,52.18978146242297185693412109,25379.06302388580703363554184
+693,"Divisional Forest Office, Thimphu",Q3,Sep,Commercial,other,Blue Pine,315.4604972474600546032314371,17422.08304643536569587558880
+694,"Divisional Forest Office, Thimphu",Q3,Sep,Commercial,other,Hemlock,17.07572662578883766727834221,164843.1276000733963418432624
+695,"Divisional Forest Office, Thimphu",Q3,Sep,Commercial,other,Oak,115.3627959539900640021483239,40310.78908958386909734479349
+696,"Divisional Forest Office, Thimphu",Q3,Jul,Commercial,other,Blue Pine,309.0909801727610437273418968,38821.9120945441120799676705
+697,"Divisional Forest Office, Thimphu",Q3,Sep,Free,timber,Broadleaf Mixed,0,0
+698,"Divisional Forest Office, Thimphu",Q3,Jul,Free,firewood,Chir Pine,0,0
+699,"Divisional Forest Office, Trashigang",Q3,Aug,Rural,standing,Cypress,11.10242160819621235641105247,939.7081282877990836585779739
+700,"Divisional Forest Office, Trashigang",Q3,Jul,Rural,standing,Broadleaf Mixed,223.5287550450170754424091897,1583.285253690819616494145596
+701,"Divisional Forest Office, Trashigang",Q3,Aug,Rural,standing,Chir Pine,105.9488233467867122011797578,1677.006618021381299847276430
+702,"Divisional Forest Office, Trashigang",Q3,Sep,Rural,other,Chir Pine,0,0
+703,"Divisional Forest Office, Trashigang",Q3,Aug,Commercial,standing,Cypress,0,0
+704,"Divisional Forest Office, Trashigang",Q3,Sep,Commercial,other,Broadleaf Mixed,1.106386190405021670901210581,260.4638307349665924276169265
+705,"Divisional Forest Office, Trashigang",Q3,Jul,Commercial,other,Chir Pine,2.913613809594978329098789419,2192.996169265033407572383074
+706,"Divisional Forest Office, Trashigang",Q3,Sep,Free,timber,Hemlock,1.351098912270001016570092508,0
+707,"Divisional Forest Office, Trashigang",Q3,Sep,Free,timber,Oak,0.608901087729998983429907492,0
+708,"Divisional Forest Office, Trashigang",Q3,Jul,Free,firewood,Broadleaf Mixed,0,0
+709,"Divisional Forest Office, Tsirang",Q3,Aug,Rural,standing,Chir Pine,104.4705969972108480208889680,1034.270513607530182115817475
+710,"Divisional Forest Office, Tsirang",Q3,Sep,Rural,standing,Cypress,110.5154162957687971040294345,454.0699815837937384898710866
+711,"Divisional Forest Office, Tsirang",Q3,Jul,Rural,standing,Broadleaf Mixed,56.6439867070203548750815975,351.659504808676079394311438
+712,"Divisional Forest Office, Tsirang",Q3,Jul,Rural,other,Broadleaf Mixed,0,0
+713,"Divisional Forest Office, Tsirang",Q3,Aug,Commercial,standing,Chir Pine,0,0
+714,"Divisional Forest Office, Tsirang",Q3,Sep,Commercial,other,Cypress,22.73576961271102284011916584,61.26706056129985228951255539
+715,"Divisional Forest Office, Tsirang",Q3,Sep,Commercial,other,Broadleaf Mixed,14.67423038728897715988083416,24.73293943870014771048744461
+716,"Divisional Forest Office, Tsirang",Q3,Sep,Free,timber,Blue Pine,0,0
+717,"Divisional Forest Office, Tsirang",Q3,Sep,Free,firewood,Hemlock,0,0
+718,"Divisional Forest Office, Wangdue",Q3,Jul,Rural,standing,Oak,14.29125211245967122445844216,50.53188674252447737496692247
+719,"Divisional Forest Office, Wangdue",Q3,Aug,Rural,standing,Blue Pine,84.24874788754032877554155784,829.4681132574755226250330775
+720,"Divisional Forest Office, Wangdue",Q3,Aug,Rural,other,Chir Pine,0,0
+721,"Divisional Forest Office, Wangdue",Q3,Sep,Commercial,standing,Cypress,2.021225377920293174530462666,2831.869709945410104433550487
+722,"Divisional Forest Office, Wangdue",Q3,Sep,Commercial,standing,Broadleaf Mixed,7.118774622079706825469537334,1155.543495430518445525657723
+723,"Divisional Forest Office, Wangdue",Q3,Aug,Commercial,other,Blue Pine,39.06424475629998491021578391,37295.19920314029224769778793
+724,"Divisional Forest Office, Wangdue",Q3,Aug,Commercial,other,Hemlock,96.42824807605251244907197827,14331.45778890267849908239328
+725,"Divisional Forest Office, Wangdue",Q3,Jul,Commercial,other,Oak,88.2575071676475026407122378,45986.43980258110070326061058
+726,"Divisional Forest Office, Wangdue",Q3,Sep,Free,timber,Oak,0,0
+727,"Divisional Forest Office, Wangdue",Q3,Sep,Free,firewood,Blue Pine,0,0
+728,"Divisional Forest Office, Zhemgang",Q3,Sep,Rural,standing,Hemlock,53.91190597853857945835462443,1362.772877127327808963735187
+729,"Divisional Forest Office, Zhemgang",Q3,Jul,Rural,standing,Oak,44.29809402146142054164537557,237.227122872672191036264813
+730,"Divisional Forest Office, Zhemgang",Q3,Sep,Rural,other,Broadleaf Mixed,0,0
+731,"Divisional Forest Office, Zhemgang",Q3,Jul,Commercial,standing,Chir Pine,1.512233895493502902958252696,1008.132123599095317038390584
+732,"Divisional Forest Office, Zhemgang",Q3,Jul,Commercial,standing,Cypress,2.777766104506497097041747304,1407.388037691227263606770706
+733,"Divisional Forest Office, Zhemgang",Q3,Aug,Commercial,other,Oak,2.766299862448418156808803301,3256.137603007103205078804919
+734,"Divisional Forest Office, Zhemgang",Q3,Aug,Commercial,other,Blue Pine,9.063700137551581843191196699,3404.842235702574214276033791
+735,"Divisional Forest Office, Zhemgang",Q3,Jul,Free,timber,Chir Pine,0,0
+736,"Divisional Forest Office, Zhemgang",Q3,Jul,Free,firewood,Cypress,7.327615780445969125214408233,0
+737,"Divisional Forest Office, Zhemgang",Q3,Sep,Free,firewood,Broadleaf Mixed,40.67238421955403087478559177,0
+738,Jigme Dorji National Park,Q3,Jul,Rural,standing,Blue Pine,58.34460527226181415623054037,758.4460658647209623348451982
+739,Jigme Dorji National Park,Q3,Aug,Rural,standing,Hemlock,30.06539472773818584376945963,251.5539341352790376651548018
+740,Jigme Dorji National Park,Q3,Aug,Rural,other,Cypress,4.808488345389826616144218624,2119.534145821372918887886492
+741,Jigme Dorji National Park,Q3,Jul,Rural,other,Broadleaf Mixed,56.86425249741646572511195315,201.0012220126301976543918642
+742,Jigme Dorji National Park,Q3,Sep,Rural,other,Chir Pine,46.39725915719370765874382823,1539.004632165996883457721644
+743,Jigme Dorji National Park,Q3,Jul,Commercial,standing,Chir Pine,1.518373770491803278688524590,253.5355950079100017577781684
+744,Jigme Dorji National Park,Q3,Sep,Commercial,standing,Cypress,1.161626229508196721311475410,670.4644049920899982422218316
+745,Jigme Dorji National Park,Q3,Jul,Commercial,other,Oak,0,0
+746,Jigme Dorji National Park,Q3,Jul,Free,timber,Blue Pine,0,0
+747,Jigme Dorji National Park,Q3,Sep,Free,firewood,Hemlock,0,0
+748,Jigme Khesar Strict Nature Reserve,Q3,Aug,Rural,standing,Oak,64.86383670722817248920540571,388.6217747010698552548772813
+749,Jigme Khesar Strict Nature Reserve,Q3,Jul,Rural,standing,Blue Pine,51.63395390568048000897213032,227.6064610866372980910425844
+750,Jigme Khesar Strict Nature Reserve,Q3,Sep,Rural,standing,Hemlock,4.8022093870913475018224640,623.7717642122928466540801343
+751,Jigme Khesar Strict Nature Reserve,Q3,Jul,Rural,other,Hemlock,0,0
+752,Jigme Khesar Strict Nature Reserve,Q3,Sep,Commercial,standing,Oak,0,0
+753,Jigme Khesar Strict Nature Reserve,Q3,Aug,Commercial,other,Blue Pine,0,0
+754,Jigme Khesar Strict Nature Reserve,Q3,Jul,Free,timber,Hemlock,0.5384755310409576340805069827,0
+755,Jigme Khesar Strict Nature Reserve,Q3,Aug,Free,timber,Oak,0.1115244689590423659194930173,0
+756,Jigme Khesar Strict Nature Reserve,Q3,Sep,Free,firewood,Broadleaf Mixed,0,0
+757,Jigme Singye Wangchuck National Park,Q3,Aug,Rural,standing,Chir Pine,12.96851499189627228525121556,78.98566703417861080485115766
+758,Jigme Singye Wangchuck National Park,Q3,Sep,Rural,standing,Cypress,11.57148500810372771474878444,281.0143329658213891951488423
+759,Jigme Singye Wangchuck National Park,Q3,Sep,Rural,other,Oak,0,0
+760,Jigme Singye Wangchuck National Park,Q3,Sep,Commercial,standing,Blue Pine,0,0
+761,Jigme Singye Wangchuck National Park,Q3,Aug,Commercial,other,Hemlock,0,0
+762,Jigme Singye Wangchuck National Park,Q3,Sep,Free,timber,Oak,0,0
+763,Jigme Singye Wangchuck National Park,Q3,Aug,Free,firewood,Blue Pine,0,0
+764,Jomotsangkha Wildlife Sanctuary,Q3,Sep,Rural,standing,Hemlock,22.83835689601005340873389884,765.1883948756593820648078372
+765,Jomotsangkha Wildlife Sanctuary,Q3,Aug,Rural,standing,Oak,81.89215755576500157084511467,189.1070082893745290128108515
+766,Jomotsangkha Wildlife Sanctuary,Q3,Sep,Rural,standing,Blue Pine,44.5394855482249450204209865,285.7045968349660889223813113
+767,Jomotsangkha Wildlife Sanctuary,Q3,Aug,Rural,other,Blue Pine,0,0
+768,Jomotsangkha Wildlife Sanctuary,Q3,Jul,Commercial,standing,Hemlock,5.334892931153580474326502418,2937.862567743023353848747998
+769,Jomotsangkha Wildlife Sanctuary,Q3,Jul,Commercial,standing,Oak,11.10510706884641952567349758,4350.384688980693027569344912
+770,Jomotsangkha Wildlife Sanctuary,Q3,Sep,Commercial,other,Broadleaf Mixed,24.23474682858072210777404315,9494.360208080256156946466562
+771,Jomotsangkha Wildlife Sanctuary,Q3,Jul,Commercial,other,Chir Pine,20.67525317141927789222595685,10415.32253519602746163544053
+772,Jomotsangkha Wildlife Sanctuary,Q3,Jul,Free,timber,Hemlock,0,0
+773,Jomotsangkha Wildlife Sanctuary,Q3,Sep,Free,firewood,Oak,0,0
+774,Phibsoo Wildlife Sanctuary,Q3,Aug,Rural,standing,Blue Pine,5.556049310243616084531846199,59.23952605901029969797878107
+775,Phibsoo Wildlife Sanctuary,Q3,Jul,Rural,standing,Hemlock,4.333950689756383915468153801,100.7604739409897003020212189
+776,Phibsoo Wildlife Sanctuary,Q3,Aug,Rural,other,Cypress,0,0
+777,Phibsoo Wildlife Sanctuary,Q3,Sep,Commercial,standing,Broadleaf Mixed,0,0
+778,Phibsoo Wildlife Sanctuary,Q3,Sep,Commercial,other,Chir Pine,0,0
+779,Phibsoo Wildlife Sanctuary,Q3,Jul,Free,timber,Cypress,0,0
+780,Phibsoo Wildlife Sanctuary,Q3,Jul,Free,firewood,Broadleaf Mixed,0,0
+781,Phrumsengla National Park,Q3,Jul,Rural,standing,Chir Pine,52.52475377544320420223243598,782.2063035633739287325214253
+782,Phrumsengla National Park,Q3,Jul,Rural,standing,Cypress,15.14914313854235062376887722,294.8449481281010374379792512
+783,Phrumsengla National Park,Q3,Jul,Rural,standing,Broadleaf Mixed,49.96610308601444517399868680,541.948748308525033829499324
+784,Phrumsengla National Park,Q3,Sep,Rural,other,Broadleaf Mixed,0,0
+785,Phrumsengla National Park,Q3,Jul,Commercial,standing,Chir Pine,0.5623504068932503590234561991,2842.751354263181273006172334
+786,Phrumsengla National Park,Q3,Jul,Commercial,standing,Cypress,8.687649593106749640976543801,4.626463218951767125768293
+787,Phrumsengla National Park,Q3,Sep,Commercial,other,Oak,3.379330643561082082148290231,1202.670825178669598680593733
+788,Phrumsengla National Park,Q3,Aug,Commercial,other,Blue Pine,5.560669356438917917851709769,1549.281357339197361187465640
+789,Phrumsengla National Park,Q3,Sep,Free,timber,Chir Pine,3.329297917778964228510411105,0
+790,Phrumsengla National Park,Q3,Sep,Free,timber,Cypress,1.220702082221035771489588895,0
+791,Phrumsengla National Park,Q3,Aug,Free,firewood,Oak,0,0
+792,Royal Manas National Park,Q3,Sep,Rural,standing,Blue Pine,18.41202683615819209039548023,390.4385758075925489271398255
+793,Royal Manas National Park,Q3,Aug,Rural,standing,Hemlock,19.31797316384180790960451977,24.5614241924074510728601745
+794,Royal Manas National Park,Q3,Jul,Rural,other,Cypress,0,0
+795,Royal Manas National Park,Q3,Jul,Commercial,standing,Broadleaf Mixed,0.7416918429003021148036253776,46.01145879241956809167033936
+796,Royal Manas National Park,Q3,Sep,Commercial,standing,Chir Pine,2.258308157099697885196374622,153.9885412075804319083296606
+797,Royal Manas National Park,Q3,Sep,Commercial,other,Hemlock,0,0
+798,Royal Manas National Park,Q3,Sep,Free,timber,Oak,0,0
+799,Royal Manas National Park,Q3,Aug,Free,firewood,Blue Pine,0,0
+800,Sakteng Wildlife Sanctuary,Q3,Sep,Rural,standing,Hemlock,14.77389143230869849574885546,589.4054054054054054054054054
+801,Sakteng Wildlife Sanctuary,Q3,Jul,Rural,standing,Oak,75.94610856769130150425114454,570.5945945945945945945945946
+802,Sakteng Wildlife Sanctuary,Q3,Aug,Rural,other,Broadleaf Mixed,0,0
+803,Sakteng Wildlife Sanctuary,Q3,Sep,Commercial,standing,Chir Pine,0,200.0
+804,Sakteng Wildlife Sanctuary,Q3,Jul,Commercial,other,Cypress,0,0
+805,Sakteng Wildlife Sanctuary,Q3,Jul,Free,timber,Broadleaf Mixed,0,0
+806,Sakteng Wildlife Sanctuary,Q3,Sep,Free,firewood,Chir Pine,0,0
+807,Wangchuck Centennial National Park,Q3,Jul,Rural,standing,Cypress,48.68720617221377484935518387,430.2152112676056338028169014
+808,Wangchuck Centennial National Park,Q3,Aug,Rural,standing,Broadleaf Mixed,36.59752323027538435546545024,467.3712676056338028169014085
+809,Wangchuck Centennial National Park,Q3,Sep,Rural,standing,Chir Pine,76.73527059751084079517936589,542.4135211267605633802816901
+810,Wangchuck Centennial National Park,Q3,Sep,Rural,other,Chir Pine,0,0
+811,Wangchuck Centennial National Park,Q3,Jul,Commercial,standing,Cypress,0,0
+812,Wangchuck Centennial National Park,Q3,Sep,Commercial,other,Broadleaf Mixed,0.2954527461652647204354280059,238.5932376646353449970513073
+813,Wangchuck Centennial National Park,Q3,Aug,Commercial,other,Chir Pine,0.5745472538347352795645719941,316.8867623353646550029486927
+814,Wangchuck Centennial National Park,Q3,Aug,Free,timber,Hemlock,0,0
+815,Wangchuck Centennial National Park,Q3,Jul,Free,firewood,Oak,0,0
+816,Bumdeling Wildlife Sanctuary,Q4,Dec,Rural,standing,Blue Pine,5.712356489589414282934423040,143.1578947368421052631578947
+817,Bumdeling Wildlife Sanctuary,Q4,Nov,Rural,standing,Hemlock,73.62764351041058571706557696,536.8421052631578947368421053
+818,Bumdeling Wildlife Sanctuary,Q4,Dec,Rural,other,Cypress,0,0
+819,Bumdeling Wildlife Sanctuary,Q4,Dec,Commercial,standing,Broadleaf Mixed,18.82287962693092392888370737,10494.73309422507918111845062
+820,Bumdeling Wildlife Sanctuary,Q4,Dec,Commercial,standing,Chir Pine,9.31712037306907607111629263,5267.75989991148219584390989
+821,Bumdeling Wildlife Sanctuary,Q4,Nov,Commercial,other,Hemlock,24.30655992884144985545919502,12089.10453907008069864890820
+822,Bumdeling Wildlife Sanctuary,Q4,Oct,Commercial,other,Oak,0.42344007115855014454080498,1763.29246679335792438873129
+823,Bumdeling Wildlife Sanctuary,Q4,Dec,Free,timber,Broadleaf Mixed,0,0
+824,Bumdeling Wildlife Sanctuary,Q4,Dec,Free,firewood,Chir Pine,0,0
+825,"Divisional Forest Office, Bumthang",Q4,Dec,Rural,standing,Cypress,400.0585366827925968665394346,5919.109427659637925378030958
+826,"Divisional Forest Office, Bumthang",Q4,Nov,Rural,standing,Broadleaf Mixed,568.1294509786516355243886201,5065.864773777923588535297802
+827,"Divisional Forest Office, Bumthang",Q4,Oct,Rural,standing,Chir Pine,776.6952461053659402600861036,6724.625249783769274359509678
+828,"Divisional Forest Office, Bumthang",Q4,Oct,Rural,standing,Cypress,188.146766233189827348985842,6910.40054877866921172716156
+829,"Divisional Forest Office, Bumthang",Q4,Dec,Rural,other,Hemlock,0,0
+830,"Divisional Forest Office, Bumthang",Q4,Dec,Commercial,standing,Oak,194.2011803612312388705164080,50253.57699849591034920782250
+831,"Divisional Forest Office, Bumthang",Q4,Dec,Commercial,standing,Blue Pine,44.77489697278046298651742559,5224.619783621664751942728862
+832,"Divisional Forest Office, Bumthang",Q4,Nov,Commercial,standing,Hemlock,21.3939226659882981429661664,26801.55158939661764876960195
+833,"Divisional Forest Office, Bumthang",Q4,Oct,Commercial,other,Hemlock,6947.041173945749811938581353,3093928.199856642567623511765
+834,"Divisional Forest Office, Bumthang",Q4,Nov,Commercial,other,Oak,2191.762419576087437497234391,786853.2550016971364163206219
+835,"Divisional Forest Office, Bumthang",Q4,Dec,Commercial,other,Blue Pine,1821.770371255365281649630515,3638895.151116238073616689122
+836,"Divisional Forest Office, Bumthang",Q4,Dec,Commercial,other,Hemlock,225.5189627859639807071109341,1991466.321446426371591336883
+837,"Divisional Forest Office, Bumthang",Q4,Nov,Commercial,other,Oak,16263.79332404088676490110182,1131372.592004889697676375272
+838,"Divisional Forest Office, Bumthang",Q4,Dec,Commercial,other,Blue Pine,12366.54374839594672330634099,1939908.88220259196032584619
+839,"Divisional Forest Office, Bumthang",Q4,Nov,Free,timber,Cypress,0,0
+840,"Divisional Forest Office, Bumthang",Q4,Nov,Free,firewood,Broadleaf Mixed,0,0
+841,"Divisional Forest Office, Dagana",Q4,Nov,Rural,standing,Chir Pine,277.7723891834570519618239661,742.3506157822715523795043333
+842,"Divisional Forest Office, Dagana",Q4,Nov,Rural,standing,Cypress,89.74671049840933191940615058,242.6881556940854492929907253
+843,"Divisional Forest Office, Dagana",Q4,Dec,Rural,standing,Broadleaf Mixed,58.1909003181336161187698833,1334.961228523642998327504941
+844,"Divisional Forest Office, Dagana",Q4,Oct,Rural,other,Broadleaf Mixed,0,0
+845,"Divisional Forest Office, Dagana",Q4,Dec,Commercial,standing,Chir Pine,12.39012836185819070904645477,1389.743162692847124824684432
+846,"Divisional Forest Office, Dagana",Q4,Oct,Commercial,standing,Cypress,7.85987163814180929095354523,1820.256837307152875175315568
+847,"Divisional Forest Office, Dagana",Q4,Dec,Commercial,other,Oak,0,0
+848,"Divisional Forest Office, Dagana",Q4,Dec,Free,timber,Blue Pine,0,0
+849,"Divisional Forest Office, Dagana",Q4,Dec,Free,firewood,Hemlock,0,0
+850,"Divisional Forest Office, Gedu",Q4,Dec,Rural,standing,Oak,0,0
+851,"Divisional Forest Office, Gedu",Q4,Nov,Rural,other,Blue Pine,0,0
+852,"Divisional Forest Office, Gedu",Q4,Dec,Commercial,standing,Hemlock,0,0
+853,"Divisional Forest Office, Gedu",Q4,Oct,Commercial,other,Oak,0,0
+854,"Divisional Forest Office, Gedu",Q4,Oct,Free,timber,Blue Pine,0,0
+855,"Divisional Forest Office, Gedu",Q4,Nov,Free,firewood,Hemlock,0,0
+856,"Divisional Forest Office, Mongar",Q4,Oct,Rural,standing,Oak,352.8330088064787361154135505,4785.575416341620594919105925
+857,"Divisional Forest Office, Mongar",Q4,Oct,Rural,standing,Blue Pine,59.82226755764039474266495553,3720.828952277583692297256046
+858,"Divisional Forest Office, Mongar",Q4,Oct,Rural,standing,Hemlock,685.9073691197946630083639421,2825.186039412542821286843266
+859,"Divisional Forest Office, Mongar",Q4,Dec,Rural,standing,Oak,147.7801221401070938620170819,2370.754672183970423633958552
+860,"Divisional Forest Office, Mongar",Q4,Nov,Rural,standing,Blue Pine,811.197232375979112271540470,2537.65491978428246786283621
+861,"Divisional Forest Office, Mongar",Q4,Nov,Rural,other,Oak,0.6373161290322580645161290323,623.3688165309956167814652473
+862,"Divisional Forest Office, Mongar",Q4,Nov,Rural,other,Blue Pine,12.80268387096774193548387097,176.6311834690043832185347527
+863,"Divisional Forest Office, Mongar",Q4,Nov,Commercial,standing,Chir Pine,5.088424947145877378435517970,1597.454356116767780685961542
+864,"Divisional Forest Office, Mongar",Q4,Nov,Commercial,standing,Cypress,6.881575052854122621564482030,1132.239338150748142880917439
+865,"Divisional Forest Office, Mongar",Q4,Oct,Commercial,other,Oak,0.5793699360341151385927505330,107.4064372869712806775516971
+866,"Divisional Forest Office, Mongar",Q4,Nov,Commercial,other,Blue Pine,0.0106300639658848614072494670,27.1398684455127957555693219
+867,"Divisional Forest Office, Mongar",Q4,Oct,Free,timber,Chir Pine,22.83242430680973122277701052,0
+868,"Divisional Forest Office, Mongar",Q4,Dec,Free,timber,Cypress,21.94757569319026877722298948,0
+869,"Divisional Forest Office, Mongar",Q4,Dec,Free,firewood,Oak,0,0
+870,"Divisional Forest Office, Paro",Q4,Dec,Rural,standing,Blue Pine,605.0136712994305284536657242,365.3364289662797125483692648
+871,"Divisional Forest Office, Paro",Q4,Oct,Rural,standing,Hemlock,293.3625821353191828282426028,8475.406965174129353233830846
+872,"Divisional Forest Office, Paro",Q4,Nov,Rural,standing,Oak,707.3546636932021823105411971,1317.002985074626865671641791
+873,"Divisional Forest Office, Paro",Q4,Dec,Rural,standing,Blue Pine,268.729082872048106407550476,7850.25362078496406854615810
+874,"Divisional Forest Office, Paro",Q4,Nov,Rural,other,Broadleaf Mixed,0,5672.0
+875,"Divisional Forest Office, Paro",Q4,Nov,Commercial,standing,Chir Pine,363.7338753715352180825326605,222128.9169900902269145606498
+876,"Divisional Forest Office, Paro",Q4,Oct,Commercial,standing,Cypress,143.3290678786203082878274694,31409.60318038571335847122333
+877,"Divisional Forest Office, Paro",Q4,Dec,Commercial,standing,Broadleaf Mixed,278.9001347895209787792907998,135244.2622378744065483688111
+878,"Divisional Forest Office, Paro",Q4,Nov,Commercial,standing,Chir Pine,336.3869219603234948503490703,69197.6937380180400284119265
+879,"Divisional Forest Office, Paro",Q4,Nov,Commercial,other,Blue Pine,0.1453009166998804304503786369,286.0465218324089982462856115
+880,"Divisional Forest Office, Paro",Q4,Oct,Commercial,other,Hemlock,0.8346990833001195695496213631,113.8473317992041519411036885
+881,"Divisional Forest Office, Paro",Q4,Oct,Free,timber,Cypress,322.5392181818181818181818182,0
+882,"Divisional Forest Office, Paro",Q4,Nov,Free,timber,Broadleaf Mixed,47.44070909090909090909090909,0
+883,"Divisional Forest Office, Paro",Q4,Nov,Free,timber,Chir Pine,47.68758181818181818181818182,0
+884,"Divisional Forest Office, Paro",Q4,Nov,Free,timber,Cypress,238.6024909090909090909090909,0
+885,"Divisional Forest Office, Paro",Q4,Oct,Free,firewood,Hemlock,0,0
+886,"Divisional Forest Office, Pema Gatshel",Q4,Nov,Rural,standing,Oak,174.0110472207701690189928559,3527.967434647762516614975631
+887,"Divisional Forest Office, Pema Gatshel",Q4,Dec,Rural,standing,Blue Pine,6.932183307196375675204739502,1028.216105449712007089056269
+888,"Divisional Forest Office, Pema Gatshel",Q4,Oct,Rural,standing,Hemlock,202.9319393622582331416623105,4062.574213557820115197164377
+889,"Divisional Forest Office, Pema Gatshel",Q4,Dec,Rural,standing,Oak,122.9248301097752221641400941,1251.242246344705361098803723
+890,"Divisional Forest Office, Pema Gatshel",Q4,Oct,Rural,other,Cypress,6.927368130350731842032587683,171.8405568906936272478660810
+891,"Divisional Forest Office, Pema Gatshel",Q4,Nov,Rural,other,Broadleaf Mixed,9.072631869649268157967412317,188.1594431093063727521339190
+892,"Divisional Forest Office, Pema Gatshel",Q4,Oct,Commercial,standing,Blue Pine,0,0
+893,"Divisional Forest Office, Pema Gatshel",Q4,Dec,Commercial,other,Hemlock,420.1478713522040136710191920,21746.80068843151171043293116
+894,"Divisional Forest Office, Pema Gatshel",Q4,Oct,Commercial,other,Oak,141.1444255542897204451844711,7108.530975869410929737402413
+895,"Divisional Forest Office, Pema Gatshel",Q4,Oct,Commercial,other,Blue Pine,309.7241188327052843747261414,15886.29270759403832505322924
+896,"Divisional Forest Office, Pema Gatshel",Q4,Oct,Commercial,other,Hemlock,102.7435842608009815090701955,13873.85562810503903477643719
+897,"Divisional Forest Office, Pema Gatshel",Q4,Oct,Free,timber,Chir Pine,0,0
+898,"Divisional Forest Office, Pema Gatshel",Q4,Nov,Free,firewood,Cypress,0,0
+899,"Divisional Forest Office, Samdrup Jongkhar",Q4,Nov,Rural,standing,Broadleaf Mixed,77.02265958455847481741439818,827.0551786344562531863994666
+900,"Divisional Forest Office, Samdrup Jongkhar",Q4,Dec,Rural,standing,Chir Pine,67.26258180783458218723323532,1081.734969998823483273853877
+901,"Divisional Forest Office, Samdrup Jongkhar",Q4,Nov,Rural,standing,Cypress,12.8147586076069429953523665,871.209851366720263539746656
+902,"Divisional Forest Office, Samdrup Jongkhar",Q4,Oct,Rural,other,Cypress,128.4608073899720211395834259,1006.950596252129471890971039
+903,"Divisional Forest Office, Samdrup Jongkhar",Q4,Dec,Rural,other,Broadleaf Mixed,130.8717857618688102322689523,670.4258943781942078364565588
+904,"Divisional Forest Office, Samdrup Jongkhar",Q4,Dec,Rural,other,Chir Pine,52.6674068481591686281476218,2102.623509369676320272572402
+905,"Divisional Forest Office, Samdrup Jongkhar",Q4,Nov,Commercial,standing,Chir Pine,0,0
+906,"Divisional Forest Office, Samdrup Jongkhar",Q4,Oct,Commercial,other,Cypress,52.59927913366736705996444157,19439.48477520435967302452316
+907,"Divisional Forest Office, Samdrup Jongkhar",Q4,Nov,Commercial,other,Broadleaf Mixed,14.08072086633263294003555843,2688.06522479564032697547684
+908,"Divisional Forest Office, Samdrup Jongkhar",Q4,Oct,Free,timber,Blue Pine,417.5746333489023820644558617,0
+909,"Divisional Forest Office, Samdrup Jongkhar",Q4,Dec,Free,timber,Hemlock,197.2817702008407286314806165,0
+910,"Divisional Forest Office, Samdrup Jongkhar",Q4,Oct,Free,timber,Oak,147.7618981784212984586641756,0
+911,"Divisional Forest Office, Samdrup Jongkhar",Q4,Oct,Free,timber,Blue Pine,551.1616982718355908453993462,0
+912,"Divisional Forest Office, Samdrup Jongkhar",Q4,Oct,Free,firewood,Broadleaf Mixed,0,0
+913,"Divisional Forest Office, Samtse",Q4,Nov,Rural,standing,Chir Pine,0,0
+914,"Divisional Forest Office, Samtse",Q4,Nov,Rural,other,Cypress,0,0
+915,"Divisional Forest Office, Samtse",Q4,Nov,Commercial,standing,Broadleaf Mixed,0,0
+916,"Divisional Forest Office, Samtse",Q4,Nov,Commercial,other,Chir Pine,0,0
+917,"Divisional Forest Office, Samtse",Q4,Oct,Free,timber,Cypress,0,0
+918,"Divisional Forest Office, Samtse",Q4,Dec,Free,firewood,Broadleaf Mixed,0,0
+919,"Divisional Forest Office, Sarpang",Q4,Oct,Rural,standing,Chir Pine,332.4470943396226415094339623,285.9060133406891017603691258
+920,"Divisional Forest Office, Sarpang",Q4,Oct,Rural,standing,Cypress,415.4854605993340732519422863,444.8608255178293796078038016
+921,"Divisional Forest Office, Sarpang",Q4,Dec,Rural,standing,Broadleaf Mixed,98.89434850166481687014428413,907.2651587341391243292040724
+922,"Divisional Forest Office, Sarpang",Q4,Nov,Rural,standing,Chir Pine,211.4130965593784683684794673,481.968002407342394302623000
+923,"Divisional Forest Office, Sarpang",Q4,Dec,Rural,other,Blue Pine,0,0
+924,"Divisional Forest Office, Sarpang",Q4,Nov,Commercial,standing,Hemlock,0,0
+925,"Divisional Forest Office, Sarpang",Q4,Oct,Commercial,other,Oak,174.1090207511576058995026582,451.7713817729148922230229968
+926,"Divisional Forest Office, Sarpang",Q4,Dec,Commercial,other,Blue Pine,28.81720116618075801749271137,69.59257026796828932713097032
+927,"Divisional Forest Office, Sarpang",Q4,Oct,Commercial,other,Hemlock,102.7737780826616360830046304,187.2360479591168184498460329
+928,"Divisional Forest Office, Sarpang",Q4,Nov,Free,timber,Hemlock,29.80429621380846325167037862,0
+929,"Divisional Forest Office, Sarpang",Q4,Oct,Free,timber,Oak,56.17133630289532293986636971,0
+930,"Divisional Forest Office, Sarpang",Q4,Nov,Free,timber,Blue Pine,27.50436748329621380846325167,0
+931,"Divisional Forest Office, Sarpang",Q4,Dec,Free,firewood,Blue Pine,44.83437016669530847224609039,0
+932,"Divisional Forest Office, Sarpang",Q4,Nov,Free,firewood,Hemlock,34.70562983330469152775390961,0
+933,"Divisional Forest Office, Thimphu",Q4,Nov,Rural,standing,Cypress,324.6014089639256650066804324,410.1822513400833829660512210
+934,"Divisional Forest Office, Thimphu",Q4,Nov,Rural,standing,Broadleaf Mixed,397.0186274747965504676302684,2183.779432201707365495334525
+935,"Divisional Forest Office, Thimphu",Q4,Dec,Rural,standing,Chir Pine,214.8590161545001821936110774,1988.612070676990271987294024
+936,"Divisional Forest Office, Thimphu",Q4,Nov,Rural,standing,Cypress,48.4509474067776023320782218,971.426245781218979551320230
+937,"Divisional Forest Office, Thimphu",Q4,Nov,Rural,other,Hemlock,49.64919468234692573181643871,1720.505475554022592049668018
+938,"Divisional Forest Office, Thimphu",Q4,Dec,Rural,other,Oak,39.69080531765307426818356129,683.434524445977407950331982
+939,"Divisional Forest Office, Thimphu",Q4,Dec,Commercial,standing,Broadleaf Mixed,34.73524123711340206185567010,17791.79712744910023953144448
+940,"Divisional Forest Office, Thimphu",Q4,Nov,Commercial,standing,Chir Pine,36.94475876288659793814432990,9370.60377992330051661222282
+941,"Divisional Forest Office, Thimphu",Q4,Dec,Commercial,other,Hemlock,271.2851272015655577299412916,231786.6395847844816716445390
+942,"Divisional Forest Office, Thimphu",Q4,Dec,Commercial,other,Oak,111.3658838878016960208741031,269539.5607264355748897820958
+943,"Divisional Forest Office, Thimphu",Q4,Oct,Commercial,other,Blue Pine,889.3928571428571428571428571,204273.1797887466705709442908
+944,"Divisional Forest Office, Thimphu",Q4,Oct,Commercial,other,Hemlock,699.6015655577299412915851272,16133.26270369838084285878324
+945,"Divisional Forest Office, Thimphu",Q4,Oct,Commercial,other,Oak,241.954566210045662100456621,117088.3762889624912686266239
+946,"Divisional Forest Office, Thimphu",Q4,Nov,Free,timber,Hemlock,0,0
+947,"Divisional Forest Office, Thimphu",Q4,Oct,Free,firewood,Oak,0,0
+948,"Divisional Forest Office, Trashigang",Q4,Dec,Rural,standing,Blue Pine,0,0
+949,"Divisional Forest Office, Trashigang",Q4,Dec,Rural,other,Hemlock,0,0
+950,"Divisional Forest Office, Trashigang",Q4,Nov,Commercial,standing,Oak,0,0
+951,"Divisional Forest Office, Trashigang",Q4,Dec,Commercial,other,Blue Pine,0,0
+952,"Divisional Forest Office, Trashigang",Q4,Nov,Free,timber,Hemlock,0,0
+953,"Divisional Forest Office, Trashigang",Q4,Oct,Free,firewood,Oak,0,0
+954,"Divisional Forest Office, Tsirang",Q4,Nov,Rural,standing,Blue Pine,187.1776696452269309033000088,4573.335360291882031012465795
+955,"Divisional Forest Office, Tsirang",Q4,Oct,Rural,standing,Hemlock,226.0227727152083517650181368,1252.310732745515354211006385
+956,"Divisional Forest Office, Tsirang",Q4,Oct,Rural,standing,Oak,49.9495576395647173316818544,6324.353906962602614776527820
+957,"Divisional Forest Office, Tsirang",Q4,Oct,Rural,other,Oak,24.52674396814242211290700398,741.2426253687315634218289086
+958,"Divisional Forest Office, Tsirang",Q4,Nov,Rural,other,Blue Pine,32.20325603185757788709299602,548.7573746312684365781710914
+959,"Divisional Forest Office, Tsirang",Q4,Dec,Commercial,standing,Chir Pine,0,0
+960,"Divisional Forest Office, Tsirang",Q4,Oct,Commercial,other,Cypress,94.94970200483657071534441064,17145.45313168288218861381370
+961,"Divisional Forest Office, Tsirang",Q4,Nov,Commercial,other,Broadleaf Mixed,71.69896793821670957172946408,25648.23394278007899046334650
+962,"Divisional Forest Office, Tsirang",Q4,Nov,Commercial,other,Chir Pine,10.3413300569467197129261253,2587.99292553703882092283980
+963,"Divisional Forest Office, Tsirang",Q4,Nov,Free,timber,Chir Pine,0,0
+964,"Divisional Forest Office, Tsirang",Q4,Nov,Free,firewood,Cypress,0,0
+965,"Divisional Forest Office, Wangdue",Q4,Nov,Rural,standing,Broadleaf Mixed,246.1823299180327868852459016,1568.382783117425825323861262
+966,"Divisional Forest Office, Wangdue",Q4,Oct,Rural,standing,Chir Pine,134.3518709016393442622950820,3823.137961912721628559488986
+967,"Divisional Forest Office, Wangdue",Q4,Nov,Rural,standing,Cypress,339.1459672131147540983606557,4106.211927646110679959405409
+968,"Divisional Forest Office, Wangdue",Q4,Dec,Rural,standing,Broadleaf Mixed,394.9698319672131147540983607,8810.267327323741866157244343
+969,"Divisional Forest Office, Wangdue",Q4,Oct,Rural,other,Oak,19.78272911392405063291139241,1768.123571885568046796453706
+970,"Divisional Forest Office, Wangdue",Q4,Nov,Rural,other,Blue Pine,20.17727088607594936708860759,3951.876428114431953203546294
+971,"Divisional Forest Office, Wangdue",Q4,Dec,Commercial,standing,Chir Pine,5.744329461457233368532206969,3486.990909048756734854806554
+972,"Divisional Forest Office, Wangdue",Q4,Oct,Commercial,standing,Cypress,2.815670538542766631467793031,3228.278680312881235172030584
+973,"Divisional Forest Office, Wangdue",Q4,Nov,Commercial,other,Oak,120.0028445412469371086305472,503821.1344940195155189227221
+974,"Divisional Forest Office, Wangdue",Q4,Nov,Commercial,other,Blue Pine,655.3448755785461475632997550,300900.5017189528318558690655
+975,"Divisional Forest Office, Wangdue",Q4,Nov,Commercial,other,Hemlock,650.2249937380887557854614756,446446.4857260172931110738712
+976,"Divisional Forest Office, Wangdue",Q4,Dec,Commercial,other,Oak,224.017286142118159542608222,42925.518471648721544107504
+977,"Divisional Forest Office, Wangdue",Q4,Nov,Free,timber,Cypress,0,0
+978,"Divisional Forest Office, Wangdue",Q4,Nov,Free,firewood,Broadleaf Mixed,0,0
+979,"Divisional Forest Office, Zhemgang",Q4,Dec,Rural,standing,Chir Pine,34.66337641678266056870153112,848.1053781053781053781053781
+980,"Divisional Forest Office, Zhemgang",Q4,Nov,Rural,standing,Cypress,77.65796380990256512229071386,1048.418236418236418236418236
+981,"Divisional Forest Office, Zhemgang",Q4,Dec,Rural,standing,Broadleaf Mixed,61.7686597733147743090077550,495.476385476385476385476386
+982,"Divisional Forest Office, Zhemgang",Q4,Nov,Rural,other,Broadleaf Mixed,0,0
+983,"Divisional Forest Office, Zhemgang",Q4,Oct,Commercial,standing,Chir Pine,33.28974900382040011502279916,4175.381377794865840729524938
+984,"Divisional Forest Office, Zhemgang",Q4,Dec,Commercial,standing,Cypress,35.89037998603294581604568048,4527.793715556080040656054726
+985,"Divisional Forest Office, Zhemgang",Q4,Oct,Commercial,standing,Broadleaf Mixed,32.59987101014665406893152036,797.861532691388948633663441
+986,"Divisional Forest Office, Zhemgang",Q4,Nov,Commercial,other,Broadleaf Mixed,6.766504178272980501392757660,651.2041342936279977563436816
+987,"Divisional Forest Office, Zhemgang",Q4,Dec,Commercial,other,Chir Pine,0.583495821727019498607242340,34.9092396640371722244132134
+988,"Divisional Forest Office, Zhemgang",Q4,Dec,Free,timber,Hemlock,98.71891114413075780089153046,0
+989,"Divisional Forest Office, Zhemgang",Q4,Oct,Free,timber,Oak,42.59227221396731054977711738,0
+990,"Divisional Forest Office, Zhemgang",Q4,Dec,Free,timber,Blue Pine,26.8688166419019316493313522,0
+991,"Divisional Forest Office, Zhemgang",Q4,Oct,Free,firewood,Blue Pine,25.64250518075063320285516924,0
+992,"Divisional Forest Office, Zhemgang",Q4,Oct,Free,firewood,Hemlock,36.95749481924936679714483076,0
+993,Jigme Dorji National Park,Q4,Nov,Rural,standing,Cypress,244.4426709391640356250883559,518.4819993179714522336434939
+994,Jigme Dorji National Park,Q4,Dec,Rural,standing,Broadleaf Mixed,127.3885283445643466377644786,2369.499683343888537048765041
+995,Jigme Dorji National Park,Q4,Oct,Rural,standing,Chir Pine,123.9437330945761274209509448,435.0445754372290154430749744
+996,Jigme Dorji National Park,Q4,Dec,Rural,standing,Cypress,235.2450676216954903161962207,2996.973741900910995274516491
+997,Jigme Dorji National Park,Q4,Oct,Rural,other,Hemlock,0,0
+998,Jigme Dorji National Park,Q4,Dec,Commercial,standing,Oak,199.7997479564032697547683924,45597.30111918367346938775510
+999,Jigme Dorji National Park,Q4,Dec,Commercial,standing,Blue Pine,185.5520834955235500194628260,97255.87489469387755102040816
+1000,Jigme Dorji National Park,Q4,Dec,Commercial,standing,Hemlock,102.6781685480731802257687816,44648.3139861224489795918367
+1001,Jigme Dorji National Park,Q4,Dec,Commercial,other,Hemlock,0,0
+1002,Jigme Dorji National Park,Q4,Nov,Free,timber,Oak,0,0
+1003,Jigme Dorji National Park,Q4,Oct,Free,firewood,Blue Pine,0,0
+1004,Jigme Khesar Strict Nature Reserve,Q4,Oct,Rural,standing,Hemlock,80.68995711775043936731107206,887.0973134328358208955223881
+1005,Jigme Khesar Strict Nature Reserve,Q4,Dec,Rural,standing,Oak,30.88402671353251318101933216,1328.950447761194029850746269
+1006,Jigme Khesar Strict Nature Reserve,Q4,Oct,Rural,standing,Blue Pine,146.2460161687170474516695958,55.952238805970149253731343
+1007,Jigme Khesar Strict Nature Reserve,Q4,Dec,Rural,other,Blue Pine,0,0
+1008,Jigme Khesar Strict Nature Reserve,Q4,Oct,Commercial,standing,Hemlock,40.94624110109159943046986236,494.5083039758429793658782084
+1009,Jigme Khesar Strict Nature Reserve,Q4,Oct,Commercial,standing,Oak,9.18375889890840056953013764,7559.491696024157020634121792
+1010,Jigme Khesar Strict Nature Reserve,Q4,Oct,Commercial,other,Broadleaf Mixed,0,0
+1011,Jigme Khesar Strict Nature Reserve,Q4,Oct,Free,timber,Chir Pine,0.4873815275971009106114105185,0
+1012,Jigme Khesar Strict Nature Reserve,Q4,Dec,Free,timber,Cypress,1.862618472402899089388589482,0
+1013,Jigme Khesar Strict Nature Reserve,Q4,Oct,Free,firewood,Oak,0,0
+1014,Jigme Singye Wangchuck National Park,Q4,Nov,Rural,standing,Blue Pine,0,0
+1015,Jigme Singye Wangchuck National Park,Q4,Oct,Rural,other,Hemlock,0,0
+1016,Jigme Singye Wangchuck National Park,Q4,Nov,Commercial,standing,Oak,0,0
+1017,Jigme Singye Wangchuck National Park,Q4,Oct,Commercial,other,Blue Pine,0,0
+1018,Jigme Singye Wangchuck National Park,Q4,Dec,Free,timber,Hemlock,0,0
+1019,Jigme Singye Wangchuck National Park,Q4,Oct,Free,firewood,Oak,0,0
+1020,Jomotsangkha Wildlife Sanctuary,Q4,Oct,Rural,standing,Blue Pine,0,0
+1021,Jomotsangkha Wildlife Sanctuary,Q4,Dec,Rural,other,Hemlock,0,0
+1022,Jomotsangkha Wildlife Sanctuary,Q4,Nov,Commercial,standing,Oak,0,0
+1023,Jomotsangkha Wildlife Sanctuary,Q4,Dec,Commercial,other,Blue Pine,0,0
+1024,Jomotsangkha Wildlife Sanctuary,Q4,Dec,Free,timber,Hemlock,0,0
+1025,Jomotsangkha Wildlife Sanctuary,Q4,Nov,Free,firewood,Oak,0,0
+1026,Phibsoo Wildlife Sanctuary,Q4,Nov,Rural,standing,Blue Pine,0,0
+1027,Phibsoo Wildlife Sanctuary,Q4,Nov,Rural,other,Hemlock,0,0
+1028,Phibsoo Wildlife Sanctuary,Q4,Dec,Commercial,standing,Oak,0,0
+1029,Phibsoo Wildlife Sanctuary,Q4,Nov,Commercial,other,Blue Pine,0,0
+1030,Phibsoo Wildlife Sanctuary,Q4,Nov,Free,timber,Hemlock,0,0
+1031,Phibsoo Wildlife Sanctuary,Q4,Nov,Free,firewood,Oak,0,0
+1032,Phrumsengla National Park,Q4,Dec,Rural,standing,Blue Pine,52.29975008079284713993321125,1250.873250094114694440958715
+1033,Phrumsengla National Park,Q4,Dec,Rural,standing,Hemlock,274.1446956802757729182376387,1704.168529301041535951813276
+1034,Phrumsengla National Park,Q4,Nov,Rural,standing,Oak,19.8455542389313799418291500,316.978220604843769607228009
+1035,Phrumsengla National Park,Q4,Dec,Rural,other,Oak,0,0
+1036,Phrumsengla National Park,Q4,Oct,Commercial,standing,Blue Pine,13.41595127610208816705336427,1118.282949062576172610758172
+1037,Phrumsengla National Park,Q4,Dec,Commercial,standing,Hemlock,3.32404872389791183294663573,4493.372211617953127956349578
+1038,Phrumsengla National Park,Q4,Nov,Commercial,other,Cypress,22.79511889862327909887359199,2039.837679721692172801992345
+1039,Phrumsengla National Park,Q4,Dec,Commercial,other,Broadleaf Mixed,8.07488110137672090112640801,8308.537159597778526630899905
+1040,Phrumsengla National Park,Q4,Oct,Free,timber,Blue Pine,23.43748917748917748917748918,0
+1041,Phrumsengla National Park,Q4,Nov,Free,timber,Hemlock,42.34176870748299319727891156,0
+1042,Phrumsengla National Park,Q4,Dec,Free,timber,Oak,37.10074211502782931354359926,0
+1043,Phrumsengla National Park,Q4,Dec,Free,firewood,Oak,35.97576825361758533082955926,0
+1044,Phrumsengla National Park,Q4,Dec,Free,firewood,Blue Pine,18.73423174638241466917044074,0
+1045,Royal Manas National Park,Q4,Nov,Rural,standing,Chir Pine,69.25303363722099968563344860,630.5727091633466135458167331
+1046,Royal Manas National Park,Q4,Oct,Rural,standing,Cypress,25.10653882426909776799748507,57.48450641876936697653829128
+1047,Royal Manas National Park,Q4,Oct,Rural,standing,Broadleaf Mixed,41.54042753850990254636906633,581.9427844178840194776449756
+1048,Royal Manas National Park,Q4,Nov,Rural,other,Broadleaf Mixed,0,0
+1049,Royal Manas National Park,Q4,Nov,Commercial,standing,Chir Pine,82.60023760448872094354746364,12957.82091202515931473971696
+1050,Royal Manas National Park,Q4,Oct,Commercial,standing,Cypress,1633.859781861903126073514256,15933.94619051560043035669950
+1051,Royal Manas National Park,Q4,Dec,Commercial,standing,Broadleaf Mixed,534.3287501431352341692431009,17484.11494992965323181329140
+1052,Royal Manas National Park,Q4,Dec,Commercial,standing,Chir Pine,97.22454196725065842207717852,2725.216553008358851278655963
+1053,Royal Manas National Park,Q4,Oct,Commercial,standing,Cypress,2382.136688423222260391618000,10933.16139452122817181163618
+1054,Royal Manas National Park,Q4,Oct,Commercial,other,Chir Pine,0,0
+1055,Royal Manas National Park,Q4,Dec,Free,timber,Cypress,0,0
+1056,Royal Manas National Park,Q4,Nov,Free,firewood,Broadleaf Mixed,0,0
+1057,Sakteng Wildlife Sanctuary,Q4,Dec,Rural,standing,Chir Pine,66.24742547425474254742547425,919.7979765537176810663240726
+1058,Sakteng Wildlife Sanctuary,Q4,Nov,Rural,standing,Cypress,32.65807588075880758807588076,352.2381564156094427493174884
+1059,Sakteng Wildlife Sanctuary,Q4,Dec,Rural,standing,Broadleaf Mixed,49.48449864498644986449864499,1156.963867030672876184358439
+1060,Sakteng Wildlife Sanctuary,Q4,Nov,Rural,other,Broadleaf Mixed,0,0
+1061,Sakteng Wildlife Sanctuary,Q4,Dec,Commercial,standing,Chir Pine,45.55817871759890859481582538,1271.059496250211000988690347
+1062,Sakteng Wildlife Sanctuary,Q4,Dec,Commercial,standing,Cypress,17.27182128240109140518417462,1785.935373411463985145530396
+1063,Sakteng Wildlife Sanctuary,Q4,Oct,Commercial,other,Oak,36.31970496200268216361198033,1925.802239712838153639065976
+1064,Sakteng Wildlife Sanctuary,Q4,Dec,Commercial,other,Blue Pine,45.09029503799731783638801967,2035.202890625486860226713281
+1065,Sakteng Wildlife Sanctuary,Q4,Nov,Free,timber,Chir Pine,0,0
+1066,Sakteng Wildlife Sanctuary,Q4,Dec,Free,firewood,Cypress,0,0
+1067,Wangchuck Centennial National Park,Q4,Dec,Rural,standing,Broadleaf Mixed,109.0499723055619663051003923,878.8360970813033567246234300
+1068,Wangchuck Centennial National Park,Q4,Oct,Rural,standing,Chir Pine,92.73081006231248557581352412,1065.301926429178027086219997
+1069,Wangchuck Centennial National Park,Q4,Oct,Rural,standing,Cypress,9.1392176321255481190860836,1455.861976489518616189156573
+1070,Wangchuck Centennial National Park,Q4,Dec,Rural,other,Cypress,0,0
+1071,Wangchuck Centennial National Park,Q4,Nov,Commercial,standing,Broadleaf Mixed,40.61865392604902368093061903,4556.772184743124026984950701
+1072,Wangchuck Centennial National Park,Q4,Oct,Commercial,standing,Chir Pine,4.96134607395097631906938097,8123.227815256875973015049299
+1073,Wangchuck Centennial National Park,Q4,Dec,Commercial,other,Hemlock,0,0
+1074,Wangchuck Centennial National Park,Q4,Nov,Free,timber,Oak,0,0
+1075,Wangchuck Centennial National Park,Q4,Oct,Free,firewood,Blue Pine,0,0
